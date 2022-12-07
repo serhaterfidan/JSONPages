@@ -1,0 +1,1498 @@
+{
+  "success": true,
+  "total": 373,
+  "data": [
+    {
+      "id": 1,
+      "name": "Country"
+    },
+    {
+      "id": 2,
+      "name": "Adult Contemporary"
+    },
+    {
+      "id": 3,
+      "name": "Pop"
+    },
+    {
+      "id": 4,
+      "name": "Rock"
+    },
+    {
+      "id": 5,
+      "name": "Blues"
+    },
+    {
+      "id": 6,
+      "name": "Classic Rock"
+    },
+    {
+      "id": 7,
+      "name": "Hard Rock"
+    },
+    {
+      "id": 8,
+      "name": "Metal"
+    },
+    {
+      "id": 9,
+      "name": "Progressive"
+    },
+    {
+      "id": 10,
+      "name": "French"
+    },
+    {
+      "id": 11,
+      "name": "Hits"
+    },
+    {
+      "id": 12,
+      "name": "Brazilian"
+    },
+    {
+      "id": 13,
+      "name": "Samba"
+    },
+    {
+      "id": 14,
+      "name": "Sertanejo"
+    },
+    {
+      "id": 15,
+      "name": "Community"
+    },
+    {
+      "id": 16,
+      "name": "Eclectic"
+    },
+    {
+      "id": 17,
+      "name": "Information"
+    },
+    {
+      "id": 18,
+      "name": "News"
+    },
+    {
+      "id": 19,
+      "name": "Talk"
+    },
+    {
+      "id": 20,
+      "name": "Catholic"
+    },
+    {
+      "id": 21,
+      "name": "Music"
+    },
+    {
+      "id": 22,
+      "name": "College"
+    },
+    {
+      "id": 23,
+      "name": "Old School"
+    },
+    {
+      "id": 24,
+      "name": "RnB"
+    },
+    {
+      "id": 25,
+      "name": "Trap"
+    },
+    {
+      "id": 26,
+      "name": "Sports"
+    },
+    {
+      "id": 27,
+      "name": "Soul"
+    },
+    {
+      "id": 28,
+      "name": "Hip Hop"
+    },
+    {
+      "id": 29,
+      "name": "Urban"
+    },
+    {
+      "id": 30,
+      "name": "Funk"
+    },
+    {
+      "id": 31,
+      "name": "80s"
+    },
+    {
+      "id": 32,
+      "name": "Portuguese"
+    },
+    {
+      "id": 33,
+      "name": "Zydeco"
+    },
+    {
+      "id": 34,
+      "name": "Gospel"
+    },
+    {
+      "id": 35,
+      "name": "Jazz"
+    },
+    {
+      "id": 36,
+      "name": "Indie"
+    },
+    {
+      "id": 37,
+      "name": "Folk"
+    },
+    {
+      "id": 38,
+      "name": "Top 40"
+    },
+    {
+      "id": 39,
+      "name": "Americana"
+    },
+    {
+      "id": 40,
+      "name": "Public"
+    },
+    {
+      "id": 41,
+      "name": "Smooth Jazz"
+    },
+    {
+      "id": 42,
+      "name": "Reggae"
+    },
+    {
+      "id": 43,
+      "name": "Rock'n'Roll"
+    },
+    {
+      "id": 44,
+      "name": "90s"
+    },
+    {
+      "id": 45,
+      "name": "Oldies"
+    },
+    {
+      "id": 46,
+      "name": "Classical"
+    },
+    {
+      "id": 47,
+      "name": "World"
+    },
+    {
+      "id": 48,
+      "name": "Classic Hits"
+    },
+    {
+      "id": 49,
+      "name": "Schlager"
+    },
+    {
+      "id": 50,
+      "name": "Gothic"
+    },
+    {
+      "id": 51,
+      "name": "Dutch"
+    },
+    {
+      "id": 52,
+      "name": "Polka"
+    },
+    {
+      "id": 53,
+      "name": "Live Shows"
+    },
+    {
+      "id": 54,
+      "name": "Romantic"
+    },
+    {
+      "id": 55,
+      "name": "Tropical"
+    },
+    {
+      "id": 56,
+      "name": "Entertainment"
+    },
+    {
+      "id": 57,
+      "name": "Local"
+    },
+    {
+      "id": 58,
+      "name": "Club"
+    },
+    {
+      "id": 59,
+      "name": "Dance"
+    },
+    {
+      "id": 60,
+      "name": "Trance"
+    },
+    {
+      "id": 61,
+      "name": "House"
+    },
+    {
+      "id": 62,
+      "name": "Techno"
+    },
+    {
+      "id": 63,
+      "name": "Russian"
+    },
+    {
+      "id": 64,
+      "name": "Meditation"
+    },
+    {
+      "id": 65,
+      "name": "Nature"
+    },
+    {
+      "id": 66,
+      "name": "Ethnic"
+    },
+    {
+      "id": 67,
+      "name": "Romanian"
+    },
+    {
+      "id": 68,
+      "name": "Spanish"
+    },
+    {
+      "id": 69,
+      "name": "Weather"
+    },
+    {
+      "id": 70,
+      "name": "Arabic"
+    },
+    {
+      "id": 71,
+      "name": "Education"
+    },
+    {
+      "id": 72,
+      "name": "Islamic"
+    },
+    {
+      "id": 73,
+      "name": "Religious"
+    },
+    {
+      "id": 74,
+      "name": "Spiritual"
+    },
+    {
+      "id": 75,
+      "name": "DJ"
+    },
+    {
+      "id": 76,
+      "name": "Children's Family"
+    },
+    {
+      "id": 77,
+      "name": "Christian"
+    },
+    {
+      "id": 78,
+      "name": "Art"
+    },
+    {
+      "id": 79,
+      "name": "Culture"
+    },
+    {
+      "id": 80,
+      "name": "Chinese"
+    },
+    {
+      "id": 81,
+      "name": "Afrikaans"
+    },
+    {
+      "id": 82,
+      "name": "Travel / Tourism"
+    },
+    {
+      "id": 83,
+      "name": "Variety"
+    },
+    {
+      "id": 84,
+      "name": "Bossa Nova"
+    },
+    {
+      "id": 85,
+      "name": "Lounge"
+    },
+    {
+      "id": 86,
+      "name": "Swing Jazz"
+    },
+    {
+      "id": 87,
+      "name": "Easy Listening"
+    },
+    {
+      "id": 88,
+      "name": "Love Songs"
+    },
+    {
+      "id": 89,
+      "name": "Europe"
+    },
+    {
+      "id": 90,
+      "name": "Deep House"
+    },
+    {
+      "id": 91,
+      "name": "Electronica"
+    },
+    {
+      "id": 92,
+      "name": "Underground"
+    },
+    {
+      "id": 93,
+      "name": "Latin"
+    },
+    {
+      "id": 94,
+      "name": "Bollywood"
+    },
+    {
+      "id": 95,
+      "name": "India"
+    },
+    {
+      "id": 96,
+      "name": "Soundtracks"
+    },
+    {
+      "id": 97,
+      "name": "70s"
+    },
+    {
+      "id": 98,
+      "name": "Classics"
+    },
+    {
+      "id": 99,
+      "name": "Baroque"
+    },
+    {
+      "id": 100,
+      "name": "Instrumental"
+    },
+    {
+      "id": 101,
+      "name": "Balada"
+    },
+    {
+      "id": 102,
+      "name": "Ballad"
+    },
+    {
+      "id": 103,
+      "name": "Opera"
+    },
+    {
+      "id": 104,
+      "name": "Tamil"
+    },
+    {
+      "id": 105,
+      "name": "Ambient"
+    },
+    {
+      "id": 106,
+      "name": "Psy"
+    },
+    {
+      "id": 107,
+      "name": "Disco"
+    },
+    {
+      "id": 108,
+      "name": "Acoustic"
+    },
+    {
+      "id": 109,
+      "name": "Chansons Françaises"
+    },
+    {
+      "id": 110,
+      "name": "Chillout"
+    },
+    {
+      "id": 111,
+      "name": "Active Rock"
+    },
+    {
+      "id": 112,
+      "name": "Traditional"
+    },
+    {
+      "id": 113,
+      "name": "Slow"
+    },
+    {
+      "id": 114,
+      "name": "New Wave"
+    },
+    {
+      "id": 115,
+      "name": "Groove"
+    },
+    {
+      "id": 116,
+      "name": "Mexican"
+    },
+    {
+      "id": 117,
+      "name": "Bachata"
+    },
+    {
+      "id": 118,
+      "name": "Reggaeton"
+    },
+    {
+      "id": 119,
+      "name": "Cumbia"
+    },
+    {
+      "id": 120,
+      "name": "Merengue"
+    },
+    {
+      "id": 121,
+      "name": "50s"
+    },
+    {
+      "id": 122,
+      "name": "60s"
+    },
+    {
+      "id": 123,
+      "name": "Downtempo"
+    },
+    {
+      "id": 124,
+      "name": "Soft"
+    },
+    {
+      "id": 125,
+      "name": "Vocal"
+    },
+    {
+      "id": 126,
+      "name": "Gay"
+    },
+    {
+      "id": 127,
+      "name": "Bluegrass"
+    },
+    {
+      "id": 128,
+      "name": "Standards"
+    },
+    {
+      "id": 129,
+      "name": "Salsa"
+    },
+    {
+      "id": 130,
+      "name": "Grunge"
+    },
+    {
+      "id": 131,
+      "name": "Christian Rock"
+    },
+    {
+      "id": 132,
+      "name": "Praise & Worship"
+    },
+    {
+      "id": 133,
+      "name": "Kids"
+    },
+    {
+      "id": 134,
+      "name": "Dubstep"
+    },
+    {
+      "id": 135,
+      "name": "Balkan"
+    },
+    {
+      "id": 136,
+      "name": "EDM"
+    },
+    {
+      "id": 137,
+      "name": "Alternative"
+    },
+    {
+      "id": 138,
+      "name": "Dreampop"
+    },
+    {
+      "id": 139,
+      "name": "Contemporary Christian"
+    },
+    {
+      "id": 140,
+      "name": "New Age"
+    },
+    {
+      "id": 141,
+      "name": "Acid Jazz"
+    },
+    {
+      "id": 142,
+      "name": "Christmas"
+    },
+    {
+      "id": 143,
+      "name": "German"
+    },
+    {
+      "id": 144,
+      "name": "Experimental"
+    },
+    {
+      "id": 145,
+      "name": "Polish"
+    },
+    {
+      "id": 146,
+      "name": "Holidays"
+    },
+    {
+      "id": 147,
+      "name": "Indian"
+    },
+    {
+      "id": 148,
+      "name": "Italian"
+    },
+    {
+      "id": 149,
+      "name": "Dance Hits"
+    },
+    {
+      "id": 150,
+      "name": "00s"
+    },
+    {
+      "id": 151,
+      "name": "Politics"
+    },
+    {
+      "id": 152,
+      "name": "Soca"
+    },
+    {
+      "id": 153,
+      "name": "Comedy"
+    },
+    {
+      "id": 154,
+      "name": "Woman"
+    },
+    {
+      "id": 155,
+      "name": "Youth"
+    },
+    {
+      "id": 156,
+      "name": "Synthpop"
+    },
+    {
+      "id": 157,
+      "name": "Shoegaze"
+    },
+    {
+      "id": 158,
+      "name": "Hardcore"
+    },
+    {
+      "id": 159,
+      "name": "Poetry & Prose"
+    },
+    {
+      "id": 160,
+      "name": "African"
+    },
+    {
+      "id": 161,
+      "name": "Caribbean"
+    },
+    {
+      "id": 162,
+      "name": "Rumba"
+    },
+    {
+      "id": 163,
+      "name": "Various"
+    },
+    {
+      "id": 164,
+      "name": "Punk"
+    },
+    {
+      "id": 165,
+      "name": "AAA"
+    },
+    {
+      "id": 166,
+      "name": "Laptop Music"
+    },
+    {
+      "id": 167,
+      "name": "Recommended"
+    },
+    {
+      "id": 168,
+      "name": "Public Access"
+    },
+    {
+      "id": 169,
+      "name": "Old Time Radio"
+    },
+    {
+      "id": 170,
+      "name": "Greek"
+    },
+    {
+      "id": 171,
+      "name": "Britpop"
+    },
+    {
+      "id": 172,
+      "name": "Student Radio"
+    },
+    {
+      "id": 173,
+      "name": "English"
+    },
+    {
+      "id": 174,
+      "name": "Gospel Rock"
+    },
+    {
+      "id": 175,
+      "name": "African Gospel"
+    },
+    {
+      "id": 176,
+      "name": "Radio Reading Service"
+    },
+    {
+      "id": 177,
+      "name": "Current Affairs"
+    },
+    {
+      "id": 178,
+      "name": "Business"
+    },
+    {
+      "id": 179,
+      "name": "Afropop"
+    },
+    {
+      "id": 180,
+      "name": "Chutney"
+    },
+    {
+      "id": 181,
+      "name": "Celtic"
+    },
+    {
+      "id": 182,
+      "name": "Irish"
+    },
+    {
+      "id": 183,
+      "name": "Grupera"
+    },
+    {
+      "id": 184,
+      "name": "Asian"
+    },
+    {
+      "id": 185,
+      "name": "Scanner"
+    },
+    {
+      "id": 186,
+      "name": "Jewish"
+    },
+    {
+      "id": 187,
+      "name": "EBM"
+    },
+    {
+      "id": 188,
+      "name": "Emergency & Public Safety"
+    },
+    {
+      "id": 189,
+      "name": "Latin Jazz"
+    },
+    {
+      "id": 190,
+      "name": "Anime"
+    },
+    {
+      "id": 191,
+      "name": "Lite Pop"
+    },
+    {
+      "id": 192,
+      "name": "Postpunk"
+    },
+    {
+      "id": 193,
+      "name": "Minimal"
+    },
+    {
+      "id": 194,
+      "name": "Middle Eastern"
+    },
+    {
+      "id": 195,
+      "name": "Football"
+    },
+    {
+      "id": 196,
+      "name": "Documentaries"
+    },
+    {
+      "id": 197,
+      "name": "Government"
+    },
+    {
+      "id": 198,
+      "name": "Health"
+    },
+    {
+      "id": 199,
+      "name": "Ranchera"
+    },
+    {
+      "id": 200,
+      "name": "Tejano"
+    },
+    {
+      "id": 201,
+      "name": "Afrobeat"
+    },
+    {
+      "id": 202,
+      "name": "Campeira"
+    },
+    {
+      "id": 203,
+      "name": "General"
+    },
+    {
+      "id": 204,
+      "name": "Flashback"
+    },
+    {
+      "id": 205,
+      "name": "J-pop"
+    },
+    {
+      "id": 206,
+      "name": "Bolero"
+    },
+    {
+      "id": 207,
+      "name": "Breaks"
+    },
+    {
+      "id": 208,
+      "name": "Progressive House"
+    },
+    {
+      "id": 209,
+      "name": "Zen"
+    },
+    {
+      "id": 210,
+      "name": "Vallenato"
+    },
+    {
+      "id": 211,
+      "name": "Rockabilly"
+    },
+    {
+      "id": 212,
+      "name": "Guitar"
+    },
+    {
+      "id": 213,
+      "name": "Turkish"
+    },
+    {
+      "id": 214,
+      "name": "History"
+    },
+    {
+      "id": 215,
+      "name": "Lifestyle"
+    },
+    {
+      "id": 216,
+      "name": "Dancehall"
+    },
+    {
+      "id": 217,
+      "name": "Ska"
+    },
+    {
+      "id": 218,
+      "name": "Drum and Bass"
+    },
+    {
+      "id": 219,
+      "name": "Cinematic"
+    },
+    {
+      "id": 220,
+      "name": "Calypso"
+    },
+    {
+      "id": 221,
+      "name": "Technology"
+    },
+    {
+      "id": 222,
+      "name": "Hindi"
+    },
+    {
+      "id": 223,
+      "name": "Malayalam"
+    },
+    {
+      "id": 224,
+      "name": "Garage"
+    },
+    {
+      "id": 225,
+      "name": "Rural"
+    },
+    {
+      "id": 226,
+      "name": "Teen Pop"
+    },
+    {
+      "id": 227,
+      "name": "Science"
+    },
+    {
+      "id": 228,
+      "name": "Gospel Pop"
+    },
+    {
+      "id": 229,
+      "name": "40s"
+    },
+    {
+      "id": 230,
+      "name": "Chamber Music"
+    },
+    {
+      "id": 231,
+      "name": "Holistic health"
+    },
+    {
+      "id": 232,
+      "name": "Japanese"
+    },
+    {
+      "id": 233,
+      "name": "Bongo Flava"
+    },
+    {
+      "id": 234,
+      "name": "Postrock"
+    },
+    {
+      "id": 235,
+      "name": "Psych"
+    },
+    {
+      "id": 236,
+      "name": "Ecology"
+    },
+    {
+      "id": 237,
+      "name": "Kpop"
+    },
+    {
+      "id": 238,
+      "name": "Animation"
+    },
+    {
+      "id": 239,
+      "name": "Trip Hop"
+    },
+    {
+      "id": 240,
+      "name": "Big Band"
+    },
+    {
+      "id": 241,
+      "name": "Tribute"
+    },
+    {
+      "id": 242,
+      "name": "Croatian"
+    },
+    {
+      "id": 243,
+      "name": "Other"
+    },
+    {
+      "id": 244,
+      "name": "Food"
+    },
+    {
+      "id": 245,
+      "name": "Drama"
+    },
+    {
+      "id": 246,
+      "name": "Forro"
+    },
+    {
+      "id": 247,
+      "name": "FIlipino"
+    },
+    {
+      "id": 248,
+      "name": "Medieval"
+    },
+    {
+      "id": 249,
+      "name": "Tango"
+    },
+    {
+      "id": 250,
+      "name": "Chaabi"
+    },
+    {
+      "id": 251,
+      "name": "Arabesk"
+    },
+    {
+      "id": 252,
+      "name": "Doo Wop"
+    },
+    {
+      "id": 253,
+      "name": "Traffic"
+    },
+    {
+      "id": 254,
+      "name": "Flamenco"
+    },
+    {
+      "id": 255,
+      "name": "Kizomba"
+    },
+    {
+      "id": 256,
+      "name": "Desi"
+    },
+    {
+      "id": 257,
+      "name": "Punjabi"
+    },
+    {
+      "id": 258,
+      "name": "Kwaito music"
+    },
+    {
+      "id": 259,
+      "name": "Gaming"
+    },
+    {
+      "id": 260,
+      "name": "Military"
+    },
+    {
+      "id": 261,
+      "name": "Soukous"
+    },
+    {
+      "id": 262,
+      "name": "Zouk"
+    },
+    {
+      "id": 263,
+      "name": "Roots"
+    },
+    {
+      "id": 264,
+      "name": "Seasons"
+    },
+    {
+      "id": 265,
+      "name": "Persian"
+    },
+    {
+      "id": 266,
+      "name": "Goa"
+    },
+    {
+      "id": 267,
+      "name": "Contemporary Classical "
+    },
+    {
+      "id": 268,
+      "name": "Southern Rock"
+    },
+    {
+      "id": 269,
+      "name": "Tourism/Travel"
+    },
+    {
+      "id": 270,
+      "name": "Cabo Love"
+    },
+    {
+      "id": 271,
+      "name": "Kompa"
+    },
+    {
+      "id": 272,
+      "name": "Cooking"
+    },
+    {
+      "id": 273,
+      "name": "Paranormal Talk"
+    },
+    {
+      "id": 274,
+      "name": "Slowjam"
+    },
+    {
+      "id": 275,
+      "name": "Austrian"
+    },
+    {
+      "id": 276,
+      "name": "Glam"
+    },
+    {
+      "id": 277,
+      "name": "Buddhist"
+    },
+    {
+      "id": 278,
+      "name": "Bhangra"
+    },
+    {
+      "id": 279,
+      "name": "Positive"
+    },
+    {
+      "id": 280,
+      "name": "Singer-Songwriter"
+    },
+    {
+      "id": 281,
+      "name": "Kashmiri"
+    },
+    {
+      "id": 282,
+      "name": "Gujarati"
+    },
+    {
+      "id": 283,
+      "name": "ニュース (News)"
+    },
+    {
+      "id": 284,
+      "name": "Airport"
+    },
+    {
+      "id": 285,
+      "name": "Air Traffic Control"
+    },
+    {
+      "id": 286,
+      "name": "IDM"
+    },
+    {
+      "id": 287,
+      "name": "Mariachi"
+    },
+    {
+      "id": 288,
+      "name": "Astrology"
+    },
+    {
+      "id": 289,
+      "name": "Financial"
+    },
+    {
+      "id": 290,
+      "name": "Hindu"
+    },
+    {
+      "id": 291,
+      "name": "Sikh"
+    },
+    {
+      "id": 292,
+      "name": "Ham Radio"
+    },
+    {
+      "id": 293,
+      "name": "Emo"
+    },
+    {
+      "id": 294,
+      "name": "Telugu"
+    },
+    {
+      "id": 295,
+      "name": "Carnatic"
+    },
+    {
+      "id": 296,
+      "name": "Hawaiian"
+    },
+    {
+      "id": 297,
+      "name": "Fashion"
+    },
+    {
+      "id": 298,
+      "name": "Halloween"
+    },
+    {
+      "id": 299,
+      "name": "Cartoons"
+    },
+    {
+      "id": 300,
+      "name": "Motown"
+    },
+    {
+      "id": 301,
+      "name": "Hardstyle"
+    },
+    {
+      "id": 302,
+      "name": "Jungle"
+    },
+    {
+      "id": 303,
+      "name": "Railroad"
+    },
+    {
+      "id": 304,
+      "name": "Movies"
+    },
+    {
+      "id": 305,
+      "name": "Rapso"
+    },
+    {
+      "id": 306,
+      "name": "Urdu"
+    },
+    {
+      "id": 307,
+      "name": "Kurdish"
+    },
+    {
+      "id": 308,
+      "name": "Fado"
+    },
+    {
+      "id": 309,
+      "name": "Manele"
+    },
+    {
+      "id": 310,
+      "name": "Konkani"
+    },
+    {
+      "id": 311,
+      "name": "Kannada"
+    },
+    {
+      "id": 312,
+      "name": "Liquid Funk"
+    },
+    {
+      "id": 313,
+      "name": "LGBT"
+    },
+    {
+      "id": 314,
+      "name": "Bandanejo"
+    },
+    {
+      "id": 315,
+      "name": "Bhakti"
+    },
+    {
+      "id": 316,
+      "name": "Catalan"
+    },
+    {
+      "id": 317,
+      "name": "Thai"
+    },
+    {
+      "id": 318,
+      "name": "Bulgarian"
+    },
+    {
+      "id": 319,
+      "name": "Bengali"
+    },
+    {
+      "id": 320,
+      "name": "Pakistani"
+    },
+    {
+      "id": 321,
+      "name": "Korean"
+    },
+    {
+      "id": 322,
+      "name": "Gumbe"
+    },
+    {
+      "id": 323,
+      "name": "Kuduro"
+    },
+    {
+      "id": 324,
+      "name": "Italo Disco"
+    },
+    {
+      "id": 325,
+      "name": "Shopping"
+    },
+    {
+      "id": 326,
+      "name": "Mediterranean"
+    },
+    {
+      "id": 327,
+      "name": "Hebrew"
+    },
+    {
+      "id": 328,
+      "name": "Sex Education"
+    },
+    {
+      "id": 329,
+      "name": "Ballroom"
+    },
+    {
+      "id": 330,
+      "name": "Language Learning"
+    },
+    {
+      "id": 331,
+      "name": "Odia"
+    },
+    {
+      "id": 332,
+      "name": "Native American"
+    },
+    {
+      "id": 333,
+      "name": "Lithuanian"
+    },
+    {
+      "id": 334,
+      "name": "Gabber"
+    },
+    {
+      "id": 335,
+      "name": "Festival"
+    },
+    {
+      "id": 336,
+      "name": "Cars"
+    },
+    {
+      "id": 337,
+      "name": "Lo-Fi"
+    },
+    {
+      "id": 338,
+      "name": "Ghetto"
+    },
+    {
+      "id": 339,
+      "name": "Marathi"
+    },
+    {
+      "id": 340,
+      "name": "Swedish"
+    },
+    {
+      "id": 341,
+      "name": "Dulpod"
+    },
+    {
+      "id": 342,
+      "name": "Mando"
+    },
+    {
+      "id": 343,
+      "name": "Masala"
+    },
+    {
+      "id": 344,
+      "name": "Hungarian"
+    },
+    {
+      "id": 345,
+      "name": "Nepali"
+    },
+    {
+      "id": 346,
+      "name": "Nutrition"
+    },
+    {
+      "id": 347,
+      "name": "Steel Pan"
+    },
+    {
+      "id": 348,
+      "name": "Sufi"
+    },
+    {
+      "id": 349,
+      "name": "Tarab"
+    },
+    {
+      "id": 350,
+      "name": "Krautrock"
+    },
+    {
+      "id": 351,
+      "name": "Mehfil"
+    },
+    {
+      "id": 352,
+      "name": "Hanukkah"
+    },
+    {
+      "id": 353,
+      "name": "Pinoy"
+    },
+    {
+      "id": 354,
+      "name": "Ramadam"
+    },
+    {
+      "id": 355,
+      "name": "Cubatón"
+    },
+    {
+      "id": 356,
+      "name": "Soft Rock"
+    },
+    {
+      "id": 357,
+      "name": "White Noice"
+    },
+    {
+      "id": 358,
+      "name": "Piano"
+    },
+    {
+      "id": 359,
+      "name": "Ibiza Club"
+    },
+    {
+      "id": 360,
+      "name": "Cool Jazz"
+    },
+    {
+      "id": 361,
+      "name": "Lofi"
+    },
+    {
+      "id": 362,
+      "name": "Indigenous"
+    },
+    {
+      "id": 363,
+      "name": "Pop Rock"
+    },
+    {
+      "id": 364,
+      "name": "Pagode"
+    },
+    {
+      "id": 365,
+      "name": "Novelty"
+    },
+    {
+      "id": 366,
+      "name": "Tagnawite"
+    },
+    {
+      "id": 367,
+      "name": "Chillhop"
+    },
+    {
+      "id": 368,
+      "name": "Mandarin"
+    },
+    {
+      "id": 369,
+      "name": "Cantonese"
+    },
+    {
+      "id": 370,
+      "name": "Agriculture"
+    },
+    {
+      "id": 371,
+      "name": "MPB"
+    },
+    {
+      "id": 372,
+      "name": "Party"
+    },
+    {
+      "id": 373,
+      "name": "Fusion"
+    }
+  ]
+}
