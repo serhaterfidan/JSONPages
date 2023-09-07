@@ -1,0 +1,3679 @@
+{
+  "status": "success",
+  "results": [
+    {
+      "id": "anything-v5",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "AnythingV5",
+      "description": "Finetuned model excellent for anime",
+      "image_url": "https://www.mage.space/models/anythingv5.jpg",
+      "short_description": "Finetuned model excellent for anime",
+      "download_url": "https://huggingface.co/ghunkins/stable-diffusion-anything-v5",
+      "external_url": "https://huggingface.co/ghunkins/stable-diffusion-anything-v5",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "(worst quality, low quality:1.4)"
+        }
+      },
+      "tags": [
+        "anime"
+      ],
+      "created_at": "2023-06-10T23:03:30.074734+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "realism-engine",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v2-1",
+      "name": "Realism Engine",
+      "description": "Finetuned model excellent for photorealism",
+      "image_url": "https://www.mage.space/models/realism-engine-ii.jpg",
+      "short_description": "Finetuned model excellent for photorealism",
+      "download_url": "https://huggingface.co/ghunkins/stable-diffusion-realism-engine",
+      "external_url": "https://huggingface.co/ghunkins/stable-diffusion-realism-engine",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 768
+        },
+        "easy_mode_settings": {
+          "negative_prompt": ""
+        }
+      },
+      "tags": [
+        "photorealism"
+      ],
+      "created_at": "2023-06-10T23:30:35.134522+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "meinapastel",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "MeinaPastel",
+      "description": "Finetuned model for brilliant, colorful pastel anime",
+      "image_url": "/models/meinapastel.jpg",
+      "short_description": "Finetuned model for brilliant, colorful pastel anime",
+      "download_url": "https://cdn.mage.space/models/base/meinapastel.safetensors",
+      "external_url": "https://civitai.com/api/download/models/108289",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "(worst quality, low quality:1.4), monochrome, zombie, (interlocked fingers),"
+        }
+      },
+      "tags": [
+        "art",
+        "anime"
+      ],
+      "created_at": "2023-07-06T20:40:29.328610+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "toon-you-v5",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "ToonYou V5",
+      "description": "Finetuned model for fun, stylish, and cute cartoons",
+      "image_url": "/models/toonyou-v5.jpg",
+      "short_description": "Finetuned model for fun, stylish, and cute cartoons",
+      "download_url": "https://cdn.mage.space/models/base/toon-you-v5.safetensors",
+      "external_url": "https://civitai.com/api/download/models/102996",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "(worst quality, low quality, letterboxed)"
+        }
+      },
+      "tags": [
+        "art"
+      ],
+      "created_at": "2023-07-06T18:43:35.978377+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "dreamshaper-v7",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "DreamShaper V7",
+      "description": "Finetuned model that produces high-quality art",
+      "image_url": "/models/dreamshaper-v7.jpg",
+      "short_description": "Finetuned model that produces high-quality art",
+      "download_url": "https://cdn.mage.space/models/base/dreamshaper-v7.safetensors",
+      "external_url": "https://civitai.com/api/download/models/109123",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "<ti:BadDream>, (<ti:UnrealisticDream>:1.2)"
+        }
+      },
+      "tags": [
+        "art",
+        "photorealism"
+      ],
+      "created_at": "2023-07-06T18:40:50.804046+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "icbinp-afterburn",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "ICBINP",
+      "description": "Finetuned model for wildly realistic generations",
+      "image_url": "/models/icbinp.jpg",
+      "short_description": "Finetuned model for wildly realistic generations",
+      "download_url": "https://cdn.mage.space/models/base/icbinp-afterburn.safetensors",
+      "external_url": "https://civitai.com/api/download/models/109115",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "(deformed, distorted, disfigured:1.3), poorly drawn, bad anatomy, wrong anatomy, extra limb, missing limb, floating limbs, (mutated hands and fingers:1.4), disconnected limbs, mutation, mutated, ugly, disgusting, blurry, amputation"
+        }
+      },
+      "tags": [
+        "photorealism"
+      ],
+      "created_at": "2023-07-06T18:47:13.969302+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "epicrealism-natural",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "epiCRealism Natural Sin",
+      "description": "Finetuned model brilliant for photorealism",
+      "image_url": "/models/epicrealism-natural.jpg",
+      "short_description": "Finetuned model brilliant for photorealism",
+      "download_url": "https://cdn.mage.space/models/base/epicrealism-natural.safetensors",
+      "external_url": "https://civitai.com/api/download/models/143906?type=Model&format=SafeTensor&size=pruned&fp=fp16",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "scheduler": "dpm_sde",
+          "guidance_scale": 7,
+          "negative_prompt": "cartoon, painting, illustration, (worst quality, low quality, normal quality:2), (watermark), immature, child, (<ti:epicnegative>:0.9)",
+          "scheduler_use_karras": true
+        }
+      },
+      "tags": [
+        "photorealism"
+      ],
+      "created_at": "2023-09-02T02:48:20.359314+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "manhwa-v2",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "Manhwa V2",
+      "description": "Finetuned model brilliant for Korean Manhwa anime",
+      "image_url": "/models/manhwa-v2.jpg",
+      "short_description": "Finetuned model brilliant for Korean Manhwa anime",
+      "download_url": "https://cdn.mage.space/models/base/manhwa-v2.safetensors",
+      "external_url": "https://huggingface.co/ghunkins/random/resolve/main/MageManhwaVer2Baked.safetensors",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "scheduler": "eulera",
+          "guidance_scale": 7.5,
+          "negative_prompt": "children, child, loli, underage, (worst quality, low quality, Bad quality:1.4), signature, watermark, bad anatomy",
+          "scheduler_use_karras": false
+        }
+      },
+      "tags": [
+        "anime",
+        "exclusive"
+      ],
+      "created_at": "2023-09-02T02:48:57.672286+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "realistic-vision-v2",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "Realistic Vision V2",
+      "description": "Finetuned model excellent for photorealism",
+      "image_url": "https://www.mage.space/models/realistic-vision-v2.jpg",
+      "short_description": "Finetuned model excellent for photorealism",
+      "download_url": "https://huggingface.co/ghunkins/stable-diffusion-realistic-vision-v2",
+      "external_url": "https://huggingface.co/ghunkins/stable-diffusion-realistic-vision-v2",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "(semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime:1.4), text, close up, cropped, out of frame, worst quality, low quality, jpeg artifacts, ugly, duplicate, morbid, mutilated, extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck"
+        }
+      },
+      "tags": [
+        "photorealism"
+      ],
+      "created_at": "2023-06-11T02:23:09.927425+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "redshift",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "Redshift",
+      "description": "Finetuned model on high resolution 3D artwork",
+      "image_url": "https://www.mage.space/models/redshift.jpg",
+      "short_description": "Finetuned model on high resolution 3D artwork",
+      "download_url": "https://huggingface.co/nitrosocke/redshift-diffusion",
+      "external_url": "https://huggingface.co/nitrosocke/redshift-diffusion",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": ""
+        }
+      },
+      "tags": [
+        "3d-art"
+      ],
+      "created_at": "2023-06-10T21:57:50.781932+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "stablegram",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "StableGram",
+      "description": "Finetuned model on Instagram style photorealism",
+      "image_url": "https://www.mage.space/models/stablegram.jpg",
+      "short_description": "Finetuned model on Instagram style photorealism",
+      "download_url": "https://huggingface.co/ghunkins/stable-diffusion-stablegram",
+      "external_url": "https://huggingface.co/ghunkins/stable-diffusion-stablegram",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "(worst quality:1.2), (low quality:1.2), sketch, watermark, text copyright signature, cut out, cgi, hands, Two bodies, Two heads, doll, extra nipples, bad anatomy, blurry, fuzzy, extra arms, extra fingers, poorly drawn hands, disfigured, tiling, deformed, mutated, out of frame, cloned face"
+        }
+      },
+      "tags": [
+        "photorealism"
+      ],
+      "created_at": "2023-06-11T02:40:21.896716+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "toonify",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "Toonify",
+      "description": "Finetuned model on toon art",
+      "image_url": "https://www.mage.space/models/toonify.jpg",
+      "short_description": "Finetuned model on toon art",
+      "download_url": "https://huggingface.co/ghunkins/stable-diffusion-toonify",
+      "external_url": "https://huggingface.co/ghunkins/stable-diffusion-toonify",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "worst quality, low quality,, mutilated, out of frame, extra fingers, mutated hands, mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, cloned face, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck, deformed tongue, unrealistic genitals, condom children preteen kids, deformed bones,deformed toes, unrealistic, copyright,watermark,textdeformed legs,deformed body, unnatural pose,cross eyed, unnatural eyelids, deformed fingers,deformed hands,ai hands,anime style, (deformed face),bikini, watermark,text, watermark, simple background, alpha background, monochrome, flat"
+        }
+      },
+      "tags": [
+        "art"
+      ],
+      "created_at": "2023-06-10T23:09:05.546407+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "vector-art",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v2-1",
+      "name": "Vector Art",
+      "description": "Finetuned model on vector art",
+      "image_url": "https://www.mage.space/models/vector-art.jpg",
+      "short_description": "Finetuned model on vector art",
+      "download_url": "https://cdn.mage.space/models/base/vector-art.safetensors",
+      "external_url": "https://civitai.com/api/download/models/5265",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "low poly, tetric, mosaic, disfigured, kitsch, ugly, oversaturated, grain, low-res, Deformed, blurry, bad anatomy, disfigured, poorly drawn face, mutation, mutated, extra limb, ugly, poorly drawn hands, missing limb, blurry, floating limbs, disconnected limbs, malformed hands, blur, out of focus, long neck, long body, ugly, disgusting, poorly drawn, mutilated, mangled, old, surreal, pixel-art, black and white, childish, watermark"
+        }
+      },
+      "tags": [
+        "art"
+      ],
+      "created_at": "2023-06-10T23:30:10.387862+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "double-exposure-original",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "Double Exposure by Joachim",
+      "description": "Finetuned model excellent for double exposure images",
+      "image_url": "/models/double-exposure-v15.jpg",
+      "short_description": "Finetuned model excellent for double exposure images",
+      "download_url": "https://cdn.mage.space/models/base/double-exposure-original.ckpt",
+      "external_url": "https://civitai.com/api/download/models/1167",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "scheduler": "eulera",
+          "negative_prompt": "(worst quality:1.2), (low quality:1.2), sketch, watermark, text copyright signature, cut out, cgi, hands, Two bodies, Two heads, doll, extra nipples, bad anatomy, blurry, fuzzy, extra arms, extra fingers, poorly drawn hands, disfigured, tiling, deformed, mutated, out of frame, cloned face",
+          "scheduler_use_karras": false
+        }
+      },
+      "tags": [
+        "art"
+      ],
+      "created_at": "2023-07-06T20:49:34.130006+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "v1.5",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "Stable Diffusion v1.5",
+      "description": "Base model excellent for art",
+      "image_url": "https://www.mage.space/models/v1-5.jpg",
+      "short_description": "Base model excellent for art",
+      "download_url": "https://huggingface.co/runwayml/stable-diffusion-v1-5",
+      "external_url": "https://huggingface.co/runwayml/stable-diffusion-v1-5",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "(worst quality:1.2), (low quality:1.2), sketch, watermark, text copyright signature, cut out, cgi, hands, Two bodies, Two heads, doll, extra nipples, bad anatomy, blurry, fuzzy, extra arms, extra fingers, poorly drawn hands, disfigured, tiling, deformed, mutated, out of frame, cloned face"
+        }
+      },
+      "tags": [
+        "base",
+        "art",
+        "inpainting"
+      ],
+      "created_at": "2023-05-31T21:22:06.676385+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "brw",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "BeautifulRealisticWomen",
+      "description": "Finetuned model on stunning model photorealism",
+      "image_url": "https://www.mage.space/models/brw.jpg",
+      "short_description": "Finetuned model on stunning model photorealism",
+      "download_url": "https://huggingface.co/ghunkins/stable-diffusion-brw",
+      "external_url": "https://huggingface.co/ghunkins/stable-diffusion-brw",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "child, loli, paintings, sketches, (worst quality:1.1), (low quality:1.1), (normal quality:1.1), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans, mutated hands, (poorly drawn hands:1.5), blurry, (bad anatomy:1.1), extra limbs, lowers, bad hands, missing fingers, extra digit, bad hands, missing fingers"
+        }
+      },
+      "tags": [
+        "photorealism"
+      ],
+      "created_at": "2023-06-10T23:11:48.109798+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "dreamshaper",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "DreamShaper",
+      "description": "Finetuned model that produces high-quality art",
+      "image_url": "https://www.mage.space/models/dreamshaper.jpg",
+      "short_description": "Finetuned model that produces high-quality art",
+      "download_url": "https://huggingface.co/Lykon/DreamShaper",
+      "external_url": "https://huggingface.co/Lykon/DreamShaper",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "canvas frame, cartoon, 3d, (disfigured), (bad art), (deformed), (extra limbs), (close up),(b&w), weird colors, blurry, ((duplicate)), (morbid), (mutilated), [out of frame], extra fingers, mutated hands, (poorly drawn hands), (poorly drawn face), (mutation), ((deformed)), (ugly), blurry, (bad anatomy), (bad proportions), (extra limbs), cloned face, (disfigured), out of frame, ugly, extra limbs, (bad anatomy), gross proportions, (malformed limbs), (missing arms), (missing legs), ((extra arms)), ((extra legs)), mutated hands, (fused fingers), (too many fingers), ((long neck)), Photoshop, video game, ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, mutation, mutated, extra limbs, extra legs, extra arms, disfigured, deformed, cross-eye, body out of frame, blurry, bad art, bad anatomy, 3d render"
+        }
+      },
+      "tags": [
+        "art"
+      ],
+      "created_at": "2023-06-10T22:21:10.176258+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "duchaiten-v4",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "DucHaitenAIArtV4",
+      "description": "Finetuned model excellent for 3D art",
+      "image_url": "https://www.mage.space/models/duchaiten-v3.jpg",
+      "short_description": "Finetuned model excellent for 3D art",
+      "download_url": "https://huggingface.co/ghunkins/stable-diffusion-duchaiten",
+      "external_url": "https://huggingface.co/ghunkins/stable-diffusion-duchaiten",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "illustration, painting, cartoons, sketch, (worst quality:1.5), (low quality:1.5), (normal quality:1.5), lowres, bad anatomy, bad hands, (monochrome), (grayscale), collapsed eyeshadow, multiple eyeblows, vaginas in breasts, (cropped), oversaturated, extra limb, missing limbs, deformed hands, long neck, long body, imperfect, (bad hands), signature, watermark, username, artist name, conjoined fingers, deformed fingers, ugly eyes, imperfect eyes, skewed eyes, unnatural face, unnatural body, error"
+        }
+      },
+      "tags": [
+        "3d-art"
+      ],
+      "created_at": "2023-06-10T22:58:36.365172+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "duchaiten-darkside",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "DucHaitenDarkside",
+      "description": "Finetuned model excellent for darkness",
+      "image_url": "https://www.mage.space/models/darkside.jpg",
+      "short_description": "Finetuned model excellent for darkness",
+      "download_url": "https://huggingface.co/ghunkins/stable-diffusion-duchaiten-darkside",
+      "external_url": "https://huggingface.co/ghunkins/stable-diffusion-duchaiten-darkside",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "illustration, 3d, 2d,  painting, cartoons, sketch, (worst quality:1.9), (low quality:1.9), (normal quality:1.9), lowres, bad anatomy, bad hands, vaginas in breasts, ((monochrome)), ((grayscale)), collapsed eyeshadow, multiple eyeblows, (cropped), oversaturated, extra limb, missing limbs, deformed hands, long neck, long body, imperfect, (bad hands), signature, watermark, username, artist name, conjoined fingers, deformed fingers, ugly eyes, imperfect eyes, skewed eyes, unnatural face, unnatural body, error, bad image, bad photo"
+        }
+      },
+      "tags": [
+        "3d-art"
+      ],
+      "created_at": "2023-06-10T23:09:41.134517+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "bra",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "BeautifulRealisticAsians V4",
+      "description": "Finetuned model on stunning Asian photorealism",
+      "image_url": "https://www.mage.space/models/bra.jpg",
+      "short_description": "Finetuned model on stunning Asian photorealism",
+      "download_url": "https://cdn.mage.space/models/base/bra.safetensors",
+      "external_url": "https://civitai.com/api/download/models/51395",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "child, loli, paintings, sketches, (worst quality:1.1), (low quality:1.1), (normal quality:1.1), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, age spot, glans, mutated hands, (poorly drawn hands:1.5), blurry, (bad anatomy:1.1), extra limbs, lowers, bad hands, missing fingers, extra digit, bad hands, missing fingers"
+        }
+      },
+      "tags": [
+        "photorealism"
+      ],
+      "created_at": "2023-06-10T23:07:12.452179+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "duchaiten-godofsimp",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "DucHaitenGodOfSimp",
+      "description": "Finetuned model excellent for anime art",
+      "image_url": "https://www.mage.space/models/duchaiten-gos.jpg",
+      "short_description": "Finetuned model excellent for anime art",
+      "download_url": "https://huggingface.co/ghunkins/stable-diffusion-duchaiten-godofsimp",
+      "external_url": "https://huggingface.co/ghunkins/stable-diffusion-duchaiten-godofsimp",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "(worst quality:1.2), (low quality:1.2), (normal quality:1.2), lowres, bad anatomy, bad hands, vaginas in breasts, ((monochrome)), ((grayscale)), collapsed eyeshadow, multiple eyeblows, (cropped), oversaturated, extra limb, missing limbs, deformed hands, long neck, long body, imperfect, (bad hands), signature, watermark, username, artist name, conjoined fingers, deformed fingers, ugly eyes, imperfect eyes, skewed eyes, unnatural face, unnatural body, error, painting by bad-artist"
+        }
+      },
+      "tags": [
+        "anime"
+      ],
+      "created_at": "2023-06-10T23:09:21.392835+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "duchaiten-stylelikeme",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "DucHaitenStyleLikeMe",
+      "description": "Finetuned model excellent for vibrant art",
+      "image_url": "https://www.mage.space/models/duchaiten-slm.jpg",
+      "short_description": "Finetuned model excellent for vibrant art",
+      "download_url": "https://huggingface.co/DucHaiten/DucHaiten-StyleLikeMe",
+      "external_url": "https://huggingface.co/DucHaiten/DucHaiten-StyleLikeMe",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "sketch, (worst quality:1.2), (low quality:1.2), (normal quality:1.2), lowres, bad anatomy, bad hands, ((monochrome)), ((grayscale)), collapsed eyeshadow, multiple eyeblows, vaginas in breasts, (cropped), oversaturated, extra limb, missing limbs, deformed hands, long neck, long body, imperfect, (bad hands), signature, watermark, username, artist name, conjoined fingers, deformed fingers, ugly eyes, imperfect eyes, skewed eyes, unnatural face, unnatural body, error"
+        }
+      },
+      "tags": [
+        "3d-art"
+      ],
+      "created_at": "2023-06-10T23:05:45.121845+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "ghostmix",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "GhostMix",
+      "description": "Finetuned model excellent for intricate anime",
+      "image_url": "https://www.mage.space/models/ghostmix-iii.jpg",
+      "short_description": "Finetuned model excellent for intricate anime",
+      "download_url": "https://huggingface.co/ghunkins/stable-diffusion-ghostmix",
+      "external_url": "https://huggingface.co/ghunkins/stable-diffusion-ghostmix",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 768
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "(worst quality, low quality:1.2), monochrome, zombie,overexposure, watermark,text,bad anatomy,bad hand,extra hands,extra fingers,too many fingers,fused fingers,bad arm,distorted arm,extra arms,fused arms,extra legs,missing leg,disembodied leg,extra nipples, detached arm, liquid hand,inverted hand,disembodied limb, small breasts, loli, oversized head,extra body,completely nude, extra navel,easynegative,(hair between eyes),sketch, duplicate, ugly, huge eyes, text, logo, worst face, (bad and mutated hands:1.3), (blurry:1.2), horror, geometry, bad_prompt, (bad hands), (missing fingers), multiple limbs, bad anatomy, (interlocked fingers:1.2), Ugly Fingers, (extra digit and hands and fingers and legs and arms:1.1), ((2girl)), (deformed fingers:1.1), (long fingers:1.1),(bad-artist-anime), bad-artist, bad hand, extra legs"
+        }
+      },
+      "tags": [
+        "anime"
+      ],
+      "created_at": "2023-06-10T23:10:46.364296+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "lyriel",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "Lyriel",
+      "description": "Finetuned model designed for the masters",
+      "image_url": "https://www.mage.space/models/lyriel.jpg",
+      "short_description": "Finetuned model designed for the masters",
+      "download_url": "https://huggingface.co/ghunkins/stable-diffusion-lyriel",
+      "external_url": "https://huggingface.co/ghunkins/stable-diffusion-lyriel",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "3d, cartoon, anime, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, bad anatomy, girl, loli, young, large breasts, red eyes, muscular"
+        }
+      },
+      "tags": [
+        "art",
+        "photorealism"
+      ],
+      "created_at": "2023-06-10T23:06:50.413055+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "hassan",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "Hassan",
+      "description": "Finetuned model excellent for photorealism",
+      "image_url": "https://www.mage.space/models/hassan.jpg",
+      "short_description": "Finetuned model excellent for photorealism",
+      "download_url": "https://huggingface.co/ghunkins/stable-diffusion-hassan",
+      "external_url": "https://huggingface.co/ghunkins/stable-diffusion-hassan",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "anime, cartoon, penis, fake, drawing, illustration, boring, 3d render, long neck, out of frame, extra fingers, mutated hands, ((monochrome)), ((poorly drawn hands)), 3DCG, cgstation, ((flat chested)), red eyes, multiple subjects, extra heads, close up, text, watermarks, logo"
+        }
+      },
+      "tags": [
+        "photorealism",
+        "nsfw"
+      ],
+      "created_at": "2023-06-11T02:22:41.642351+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "he",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "HE",
+      "description": "Finetuned model made for men",
+      "image_url": "https://www.mage.space/models/he.jpg",
+      "short_description": "Finetuned model made for men",
+      "download_url": "https://huggingface.co/ghunkins/stable-diffusion-homoerotic",
+      "external_url": "https://huggingface.co/ghunkins/stable-diffusion-homoerotic",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 768
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "black and white, monochrome, comic, bad anatomy, bad hands, text, error, cropped, letterbox, jpeg artifacts, signature, watermark, username, artist name, censored, 1girl, 3d rendering"
+        }
+      },
+      "tags": [
+        "photorealism",
+        "nsfw"
+      ],
+      "created_at": "2023-06-10T23:16:14.355168+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "f222",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "F222",
+      "description": "Finetuned model excellent for photorealism",
+      "image_url": "https://www.mage.space/models/f222.jpg",
+      "short_description": "Finetuned model excellent for photorealism",
+      "download_url": "https://huggingface.co/ghunkins/stable-diffusion-f222",
+      "external_url": "https://huggingface.co/ghunkins/stable-diffusion-f222",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "shiny skin, oily skin, unrealistic lighting, portrait, cartoon, anime, fake, airbrushed skin, deformed, blur, blurry, bokeh, warp hard bokeh, gaussian, out of focus, out of frame, obese, odd proportions, asymmetrical, super thin, fat,dialog, words, fonts, teeth, ((((ugly)))), (((duplicate))), ((morbid)), monochrome, b&w, [out of frame], extra fingers, mutated hands, ((poorly drawn hands)), ((poorly drawn face)), (((mutation))), (((deformed))), ((ugly)), blurry, ((bad anatomy)), (((bad proportions))), ((extra limbs)), cloned face, (((disfigured))), out of frame, ugly, extra limbs, (bad anatomy), gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), mutated hands, (fused fingers), (too many fingers), (((long neck)))"
+        }
+      },
+      "tags": [
+        "photorealism",
+        "nsfw"
+      ],
+      "created_at": "2023-06-10T21:58:52.937154+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "double-exposure",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v2-1",
+      "name": "Double Exposure V2 by Joachim",
+      "description": "Finetuned model excellent for double exposure images",
+      "image_url": "https://www.mage.space/models/double-exposure-v.jpg",
+      "short_description": "Finetuned model excellent for double exposure images",
+      "download_url": "https://cdn.mage.space/models/base/double-exposure.safetensors",
+      "external_url": "https://civitai.com/api/download/models/26226",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 768
+        },
+        "easy_mode_settings": {
+          "scheduler": "dpm_sde",
+          "negative_prompt": "deformed, ugly",
+          "scheduler_use_karras": true
+        }
+      },
+      "tags": [
+        "3d-art"
+      ],
+      "created_at": "2023-06-10T23:19:41.216150+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "duchaiten-journey-v5",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "DucHaitenJourneyV5",
+      "description": "Finetuned model brilliant for high-quality art with cinematic lighting",
+      "image_url": "https://www.mage.space/models/duchaiten-jn-v.jpg",
+      "short_description": "Finetuned model brilliant for high-quality art with cinematic lighting",
+      "download_url": "https://cdn.mage.space/models/base/duchaiten-journey-v5.safetensors",
+      "external_url": "https://civitai.com/api/download/models/96568",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 768
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "illustration, 3d, 2d, painting, cartoons, sketch, (worst quality:2), (low quality:2), (normal quality:2), lowres, bad anatomy, bad hands, vaginas in breasts, ((monochrome)), ((grayscale)), collapsed eyeshadow, multiple eyeblows, (cropped), oversaturated, extra limb, missing limbs, deformed hands, long neck, long body, imperfect, (bad hands), signature, watermark, username, artist name, conjoined fingers, deformed fingers, ugly eyes, imperfect eyes, skewed eyes, unnatural face, unnatural body, error, bad image, bad photo"
+        }
+      },
+      "tags": [
+        "photorealism",
+        "3d-art"
+      ],
+      "created_at": "2023-06-16T02:43:20.072829+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "duchaiten-goldenlife",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "DucHaitenGoldenLife",
+      "description": "Finetuned model brilliant for modern 3D cinema styles",
+      "image_url": "/models/duchaiten-goldenlife.jpg",
+      "short_description": "Finetuned model brilliant for modern 3D cinema styles",
+      "download_url": "https://cdn.mage.space/models/base/duchaiten-goldenlife.safetensors",
+      "external_url": "https://civitai.com/api/download/models/108544",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "illustration, 3d, 2d,  painting, cartoons, sketch, (worst quality:1.9), (low quality:1.9), (normal quality:1.9), lowres, bad anatomy, bad hands, vaginas in breasts, ((monochrome)), ((grayscale)), collapsed eyeshadow, multiple eyeblows, (cropped), oversaturated, extra limb, missing limbs, deformed hands, long neck, long body, imperfect, (bad hands), signature, watermark, username, artist name, conjoined fingers, deformed fingers, ugly eyes, imperfect eyes, skewed eyes, unnatural face, unnatural body, error, bad image, bad photo"
+        }
+      },
+      "tags": [
+        "3d-art"
+      ],
+      "created_at": "2023-07-06T20:14:35.565146+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "dark-sushi-mix-v4",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "Dark Sushi Mix V4",
+      "description": "Finetuned model excellent for brilliant anime styles",
+      "image_url": "/models/dsm-v4.jpg",
+      "short_description": "Finetuned model excellent for brilliant anime styles",
+      "download_url": "https://cdn.mage.space/models/base/dark-sushi-mix-v4.safetensors",
+      "external_url": "https://huggingface.co/ghunkins/random/resolve/main/darkSushi25D25D_v40_baked.safetensors",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "scheduler": "dpmm",
+          "guidance_scale": 8,
+          "negative_prompt": "sketch, duplicate, ugly, huge eyes, text, logo, worst face, (bad and mutated hands:1.3), (worst quality:2.0), (low quality:2.0), (blurry:2.0), horror, geometry, bad_prompt, (bad hands), (missing fingers), multiple limbs, bad anatomy, (interlocked fingers:1.2), Ugly Fingers, (extra digit and hands and fingers and legs and arms:1.4), ((2girl)), (deformed fingers:1.2), (long fingers:1.2),(bad-artist-anime), bad-artist, bad hand, extra legs, nipples,nsfw,3D",
+          "scheduler_use_karras": true
+        }
+      },
+      "tags": [
+        "anime"
+      ],
+      "created_at": "2023-09-02T02:47:38.580428+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "meinamix-v10",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "MeinaMix V10",
+      "description": "Finetuned model designed for exceptional anime",
+      "image_url": "https://www.mage.space/models/meinamix-x.jpg",
+      "short_description": "Finetuned model designed for exceptional anime",
+      "download_url": "https://cdn.mage.space/models/base/meinamix-v10.safetensors",
+      "external_url": "https://civitai.com/api/download/models/80511",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "(worst quality, low quality:1.4), monochrome, zombie, (interlocked fingers), cleavage,"
+        }
+      },
+      "tags": [
+        "anime"
+      ],
+      "created_at": "2023-06-16T20:32:14.666039+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "aether-lux",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v2-1",
+      "name": "Aether Lux",
+      "description": "Finetuned model brilliant for dynamic renders and artistic photorealism",
+      "image_url": "https://www.mage.space/models/aether-lux.jpg",
+      "short_description": "Finetuned model brilliant for dynamic renders and artistic photorealism",
+      "download_url": "https://cdn.mage.space/models/base/aether-lux.safetensors",
+      "external_url": "https://huggingface.co/ghunkins/stable-diffusion-aether-lux/resolve/main/aether_lux.safetensors",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 768
+        },
+        "easy_mode_settings": {
+          "scheduler": "euler",
+          "negative_prompt": "<ti:lux_np>",
+          "scheduler_use_karras": false
+        }
+      },
+      "tags": [
+        "art",
+        "photorealism",
+        "3d-art"
+      ],
+      "created_at": "2023-06-17T00:43:25.028683+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "uhd",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "UHD",
+      "description": "Finetuned model excellent for men",
+      "image_url": "https://www.mage.space/models/uhd-ii.jpg",
+      "short_description": "Finetuned model excellent for men",
+      "download_url": "https://huggingface.co/ghunkins/stable-diffusion-uhd",
+      "external_url": "https://huggingface.co/ghunkins/stable-diffusion-uhd",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 768
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "(worst quality:1.2), (low quality:1.2), anime, digital illustration, 3d rendering, comic panel, scanlation, multiple views, artist name, signature, error, text, cropped"
+        }
+      },
+      "tags": [
+        "photorealism",
+        "nsfw"
+      ],
+      "created_at": "2023-06-10T23:14:09.776855+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "yiffymix",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "YiffyMix",
+      "description": "Finetuned model excellent for fur friends",
+      "image_url": "https://www.mage.space/models/yiffymix.jpg",
+      "short_description": "Finetuned model excellent for fur friends",
+      "download_url": "https://huggingface.co/ghunkins/stable-diffusion-yiffymix",
+      "external_url": "https://huggingface.co/ghunkins/stable-diffusion-yiffymix",
+      "is_nsfw": true,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "(worst quality:1.2), (low quality:1.2), sketch, watermark, text copyright signature, cut out, cgi, hands, Two bodies, Two heads, doll, extra nipples, bad anatomy, blurry, fuzzy, extra arms, extra fingers, poorly drawn hands, disfigured, tiling, deformed, mutated, out of frame, cloned face"
+        }
+      },
+      "tags": [
+        "anime",
+        "nsfw"
+      ],
+      "created_at": "2023-06-10T23:12:51.703859+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "waifu",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "Waifu",
+      "description": "Finetuned model excellent for anime",
+      "image_url": "https://www.mage.space/models/waifu.jpg",
+      "short_description": "Finetuned model excellent for anime",
+      "download_url": "https://huggingface.co/hakurei/waifu-diffusion",
+      "external_url": "https://huggingface.co/hakurei/waifu-diffusion",
+      "is_nsfw": true,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "lowres, (bad anatomy, bad hands:1.1), text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, blurry, b&w, weird colors, (cartoon, 3d, bad art, poorly drawn, close up, blurry:1.5), (disfigured, deformed, extra limbs:1.5)"
+        }
+      },
+      "tags": [
+        "anime"
+      ],
+      "created_at": "2023-06-10T21:55:54.656409+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "toon-you",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "ToonYou",
+      "description": "Finetuned model for fun, stylish, and cute cartoons",
+      "image_url": "https://www.mage.space/models/toonyou.jpg",
+      "short_description": "Finetuned model for fun, stylish, and cute cartoons",
+      "download_url": "https://cdn.mage.space/models/base/toon-you.safetensors",
+      "external_url": "https://civitai.com/api/download/models/78775",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "(worst quality, low quality)"
+        }
+      },
+      "tags": [
+        "art"
+      ],
+      "created_at": "2023-06-16T20:21:23.939529+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "jade-defiant-v2",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "Jade Defiant V2",
+      "description": "Finetuned model excellent at photorealism",
+      "image_url": "/models/jade-v2.jpg",
+      "short_description": "Finetuned model excellent at photorealism",
+      "download_url": "https://cdn.mage.space/models/base/jade-defiant-v2.safetensors",
+      "external_url": "https://huggingface.co/SilasModder/JadeDefiantV2/resolve/main/JadeDefiant43-0474-0869-1865.safetensors",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "scheduler": "eulera",
+          "guidance_scale": 7.5,
+          "negative_prompt": "<ti:BadDream> <ti:EasyNegative> (worst quality:1.2), (low quality:1.2), sketch, watermark, text copyright signature, cut out, cgi, hands, Two bodies, Two heads, doll, extra nipples, bad anatomy, blurry, fuzzy, extra arms, extra fingers, poorly drawn hands, disfigured, tiling, deformed, mutated, out of frame, cloned face",
+          "scheduler_use_karras": false
+        }
+      },
+      "tags": [
+        "photorealism",
+        "exclusive"
+      ],
+      "created_at": "2023-09-02T02:48:10.883861+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "any-lora",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "AnyLoRA",
+      "description": "Finetuned model that serves as the perfect canvas for any LoRA",
+      "image_url": "https://www.mage.space/models/anylora.jpg",
+      "short_description": "Finetuned model that serves as the perfect canvas for any LoRA",
+      "download_url": "https://cdn.mage.space/models/base/any-lora.safetensors",
+      "external_url": "https://civitai.com/api/download/models/95489",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "(painting by bad-artist-anime:0.9), (painting by bad-artist:0.9), watermark, text, error, blurry, jpeg artifacts, cropped, worst quality, low quality, normal quality, jpeg artifacts, (signature), watermark, username, artist name, (worst quality, low quality:1.2), bad anatomy"
+        }
+      },
+      "tags": [
+        "anime",
+        "photorealism"
+      ],
+      "created_at": "2023-06-16T20:09:16.426919+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "meina-alter",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "MeinaAlter",
+      "description": "Finetuned model that captures a unique anime style",
+      "image_url": "/models/meina-alter.jpg",
+      "short_description": "Finetuned model that captures a unique anime style",
+      "download_url": "https://cdn.mage.space/models/base/meina-alter.safetensors",
+      "external_url": "https://civitai.com/api/download/models/67625",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "(worst quality, low quality:1.4), monochrome, zombie, (interlocked fingers)"
+        }
+      },
+      "tags": [
+        "anime"
+      ],
+      "created_at": "2023-07-07T04:03:44.957414+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "duchaiten-retro",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "DucHaitenRetro",
+      "description": "Finetuned model excellent at fun retro styles",
+      "image_url": "/models/duchaiten-retro.jpg",
+      "short_description": "Finetuned model excellent at fun retro styles",
+      "download_url": "https://cdn.mage.space/models/base/duchaiten-retro.safetensors",
+      "external_url": "https://civitai.com/api/download/models/111392",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "illustration, 3d, 2d,  painting, cartoons, sketch, (worst quality:1.9), (low quality:1.9), (normal quality:1.9), lowres, bad anatomy, bad hands, vaginas in breasts, ((monochrome)), ((grayscale)), collapsed eyeshadow, multiple eyeblows, (cropped), oversaturated, extra limb, missing limbs, deformed hands, long neck, long body, imperfect, (bad hands), signature, watermark, username, artist name, conjoined fingers, deformed fingers, ugly eyes, imperfect eyes, skewed eyes, unnatural face, unnatural body, error, bad image, bad photo"
+        }
+      },
+      "tags": [
+        "photorealism",
+        "art"
+      ],
+      "created_at": "2023-07-06T18:48:58.404663+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "v2.1",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v2-1",
+      "name": "Stable Diffusion v2.1",
+      "description": "Base model excellent for photorealism",
+      "image_url": "https://www.mage.space/models/v2-1.jpg",
+      "short_description": "Base model excellent for photorealism",
+      "download_url": "https://huggingface.co/stabilityai/stable-diffusion-2-1-base",
+      "external_url": "https://huggingface.co/stabilityai/stable-diffusion-2-1-base",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "Poorly drawn face, poorly drawn hands, poorly drawn weapons, unnatural pose, blank background, boring background, render, unreal engine"
+        }
+      },
+      "tags": [
+        "base",
+        "photorealism"
+      ],
+      "created_at": "2023-05-31T21:54:30.523274+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "pastel-dream",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "Anime Pastel Dream",
+      "description": "Finetuned model excellent for vibrant anime art",
+      "image_url": "https://www.mage.space/models/apd.jpg",
+      "short_description": "Finetuned model excellent for vibrant anime art",
+      "download_url": "https://huggingface.co/sinkinai/anime-pastel-dream-hard-baked-vae",
+      "external_url": "https://huggingface.co/sinkinai/anime-pastel-dream-hard-baked-vae",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "lowres, ((bad anatomy)), ((bad hands)), text, missing finger, extra digits, fewer digits, blurry, ((mutated hands and fingers)), (poorly drawn face), ((mutation)), ((deformed face)), (ugly), ((bad proportions)), ((extra limbs)), extra face, (double head), (extra head), ((extra feet)), monster, logo, cropped, worst quality, low quality, normal quality, jpeg, humpbacked, long body, long neck, ((jpeg artifacts))"
+        }
+      },
+      "tags": [
+        "anime"
+      ],
+      "created_at": "2023-06-10T22:59:27.576372+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "anything-v3.0",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "AnythingV3",
+      "description": "Finetuned model excellent for anime",
+      "image_url": "https://www.mage.space/models/anythingv3.jpg",
+      "short_description": "Finetuned model excellent for anime",
+      "download_url": "https://huggingface.co/ckpt/anything-v3-vae-swapped",
+      "external_url": "https://huggingface.co/ckpt/anything-v3-vae-swapped",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": ""
+        }
+      },
+      "tags": [
+        "anime"
+      ],
+      "created_at": "2023-06-10T21:56:46.471372+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "reliberate",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "Reliberate",
+      "description": "Finetuned model designed for the photorealism masters",
+      "image_url": "https://www.mage.space/models/reliberate.jpg",
+      "short_description": "Finetuned model designed for the photorealism masters",
+      "download_url": "https://cdn.mage.space/models/base/reliberate.safetensors",
+      "external_url": "https://civitai.com/api/download/models/84576",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "(deformed, distorted, disfigured, doll:1.3), poorly drawn, bad anatomy, wrong anatomy, extra limb, missing limb, floating limbs, (mutated hands and fingers:1.4), disconnected limbs, mutation, mutated, ugly, disgusting, blurry, amputation, 3d, illustration, cartoon"
+        }
+      },
+      "tags": [
+        "photorealism"
+      ],
+      "created_at": "2023-06-16T20:20:58.773015+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "collage",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "Collage Diffusion",
+      "description": "Finetuned model on collage artwork",
+      "image_url": "https://www.mage.space/models/collage-ii.jpg",
+      "short_description": "Finetuned model on collage artwork",
+      "download_url": "https://huggingface.co/ghunkins/stable-diffusion-collage",
+      "external_url": "https://huggingface.co/ghunkins/stable-diffusion-collage",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "scheduler": "eulera",
+          "negative_prompt": "",
+          "scheduler_use_karras": false
+        }
+      },
+      "tags": [
+        "art"
+      ],
+      "created_at": "2023-06-10T23:08:00.577640+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "consistent-factor",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "Consistent Factor",
+      "description": "Finetuned model on high-quality photorealism",
+      "image_url": "https://www.mage.space/models/cf.jpg",
+      "short_description": "Finetuned model on high-quality photorealism",
+      "download_url": "https://huggingface.co/ghunkins/stable-diffusion-consistent-factor",
+      "external_url": "https://huggingface.co/ghunkins/stable-diffusion-consistent-factor",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "(worst quality:1.1), (low quality:1.1), sketch, watermark, text copyright signature, cut out, cgi, hands, Two bodies, Two heads, doll, extra nipples, bad anatomy, blurry, fuzzy, extra arms, extra fingers, poorly drawn hands, disfigured, tiling, deformed, mutated, out of frame, cloned face"
+        }
+      },
+      "tags": [
+        "photorealism"
+      ],
+      "created_at": "2023-06-10T23:13:15.153776+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "dreamful",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "DreamFul",
+      "description": "Finetuned model that produces dreamy images",
+      "image_url": "https://www.mage.space/models/dreamful-ii.jpg",
+      "short_description": "Finetuned model that produces dreamy images",
+      "download_url": "https://huggingface.co/ghunkins/stable-diffusion-dreamful",
+      "external_url": "https://huggingface.co/ghunkins/stable-diffusion-dreamful",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "illustration, painting, cartoons, sketch, (worst quality:1.1), (low quality:1.1), (normal quality:1.1), lowres, bad anatomy, bad hands, (monochrome), (grayscale), collapsed eyeshadow, multiple eyeblows, vaginas in breasts, (cropped), oversaturated, extra limb, missing limbs, deformed hands, long neck, long body, imperfect, (bad hands), signature, watermark, username, artist name, conjoined fingers, deformed fingers, ugly eyes, imperfect eyes, skewed eyes, unnatural face, unnatural body, error"
+        }
+      },
+      "tags": [
+        "photorealism"
+      ],
+      "created_at": "2023-06-10T23:03:57.269310+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "duchaiten",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "DucHaitenAIArt",
+      "description": "Finetuned model excellent for 3D art",
+      "image_url": "https://www.mage.space/models/duchaiten.jpg",
+      "short_description": "Finetuned model excellent for 3D art",
+      "download_url": "https://huggingface.co/DucHaiten/DucHaitenAIart",
+      "external_url": "https://huggingface.co/DucHaiten/DucHaitenAIart",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "lowres, disfigured, ostentatious, ugly, oversaturated, grain, low resolution, disfigured, blurry, bad anatomy, disfigured, poorly drawn face, mutant, mutated, extra limb, ugly, poorly drawn hands, missing limbs, blurred, floating limbs, disjointed limbs, deformed hands, blurred, out of focus, long neck, long body, ugly, disgusting, bad drawing, childish, cut off cropped, distorted, imperfect, surreal, bad hands, text, error, extra digit, fewer digits, cropped , worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, artist name, Lots of hands, extra limbs, extra fingers, conjoined fingers, deformed fingers, old, ugly eyes, imperfect eyes, skewed eyes , unnatural face, stiff face, stiff body, unbalanced body, unnatural body, lacking body, details are not clear, details are sticky, details are low, distorted details, ugly hands, imperfect hands, (mutated hands and fingers:1.1), (long body:1.1), (mutation, poorly drawn:1.1) bad hands, fused hand, missing hand, disappearing arms, disappearing thigh, disappearing calf, disappearing legs, ui, missing fingers"
+        }
+      },
+      "tags": [
+        "3d-art"
+      ],
+      "created_at": "2023-06-10T22:12:02.982119+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "majicmix-realistic",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "MajicMix Realistic",
+      "description": "Finetuned model brilliant for Majical photorealism",
+      "image_url": "https://www.mage.space/models/majicmix.jpg",
+      "short_description": "Finetuned model brilliant for Majical photorealism",
+      "download_url": "https://cdn.mage.space/models/base/majicmix-realistic.safetensors",
+      "external_url": "https://civitai.com/api/download/models/94640",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "nsfw, <ti:ng_deepnegative_v1_75t>, <ti:bhands-neg>, (worst quality:1.4), (low quality:1.4), (normal quality:1.4), lowres, watermark, monochrome"
+        }
+      },
+      "tags": [
+        "photorealism"
+      ],
+      "created_at": "2023-06-16T20:21:11.861851+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "absolute-reality",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "AbsoluteReality",
+      "description": "Finetuned model that is excellent for dreamy realism",
+      "image_url": "https://www.mage.space/models/absolute-reality.jpg",
+      "short_description": "Finetuned model that is excellent for dreamy realism",
+      "download_url": "https://cdn.mage.space/models/base/absolute-reality.safetensors",
+      "external_url": "https://civitai.com/api/download/models/108576",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "<ti:BadDream> (<ti:UnrealisticDream>:1.2)"
+        }
+      },
+      "tags": [
+        "photorealism"
+      ],
+      "created_at": "2023-06-16T20:20:59.700010+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "any-lora-anime",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "AnyLoRA Anime",
+      "description": "Finetuned model that serves as the perfect canvas for any anime LoRA",
+      "image_url": "https://www.mage.space/models/anylora-anime.jpg",
+      "short_description": "Finetuned model that serves as the perfect canvas for any anime LoRA",
+      "download_url": "https://cdn.mage.space/models/base/any-lora-anime.safetensors",
+      "external_url": "https://civitai.com/api/download/models/89927",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "(low quality, worst quality), <ti:FastNegativeEmbedding>"
+        }
+      },
+      "tags": [
+        "anime",
+        "3d-art"
+      ],
+      "created_at": "2023-06-16T20:07:18.157216+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "deliberate-v2",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "Deliberate V2",
+      "description": "Finetuned model made for the masters",
+      "image_url": "https://www.mage.space/models/deliberate-v2.jpg",
+      "short_description": "Finetuned model made for the masters",
+      "download_url": "https://huggingface.co/ghunkins/stable-diffusion-deliberate-v2",
+      "external_url": "https://huggingface.co/ghunkins/stable-diffusion-deliberate-v2",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "(deformed, distorted, disfigured:1.1), poorly drawn, bad anatomy, wrong anatomy, extra limb, missing limb, floating limbs, (mutated hands and fingers:1.2), disconnected limbs, mutation, mutated, ugly, disgusting, blurry, amputation"
+        }
+      },
+      "tags": [
+        "art",
+        "photorealism"
+      ],
+      "created_at": "2023-06-10T21:42:26.817000+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "duchaiten-journey",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "DucHaitenJourney",
+      "description": "Finetuned model that produces high-quality art with cinematic lighting",
+      "image_url": "https://www.mage.space/models/duchaiten-jn.jpg",
+      "short_description": "Finetuned model that produces high-quality art with cinematic lighting",
+      "download_url": "https://huggingface.co/ghunkins/stable-diffusion-duchaiten-journey",
+      "external_url": "https://huggingface.co/ghunkins/stable-diffusion-duchaiten-journey",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 768
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "illustration, painting, cartoons, sketch, (worst quality:2), (low quality:2), (normal quality:2), lowres, bad anatomy, bad hands, ((monochrome)), ((grayscale)), collapsed eyeshadow, multiple eyeblows, vaginas in breasts, (cropped), oversaturated, extra limb, missing limbs, deformed hands, long neck, long body, imperfect, (bad hands), signature, watermark, username, artist name, conjoined fingers, deformed fingers, ugly eyes, imperfect eyes, skewed eyes, unnatural face, unnatural body, error, two body, two faces"
+        }
+      },
+      "tags": [
+        "3d-art"
+      ],
+      "created_at": "2023-06-10T22:58:24.744741+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "duchaiten-niji",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "DucHaitenNiji",
+      "description": "Finetuned model excellent for the Niji style",
+      "image_url": "https://www.mage.space/models/niji-ii.jpg",
+      "short_description": "Finetuned model excellent for the Niji style",
+      "download_url": "https://huggingface.co/ghunkins/stable-diffusion-duchaiten-niji",
+      "external_url": "https://huggingface.co/ghunkins/stable-diffusion-duchaiten-niji",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "(worst quality:1.2), (low quality:1.2), (normal quality:1.2), lowres, bad anatomy, bad hands, vaginas in breasts, ((monochrome)), ((grayscale)), collapsed eyeshadow, multiple eyeblows, (cropped), oversaturated, extra limb, missing limbs, deformed hands, long neck, long body, imperfect, (bad hands), signature, watermark, username, artist name, conjoined fingers, deformed fingers, ugly eyes, imperfect eyes, skewed eyes, unnatural face, unnatural body, error, painting by bad-artist"
+        }
+      },
+      "tags": [
+        "anime"
+      ],
+      "created_at": "2023-06-10T23:10:33.929547+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "cyberrealistic",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "CyberRealistic",
+      "description": "Finetuned model exceptional at high-quality photorealism and LoRAs",
+      "image_url": "https://www.mage.space/models/cyberrealistic.jpg",
+      "short_description": "Finetuned model exceptional at high-quality photorealism and LoRAs",
+      "download_url": "https://cdn.mage.space/models/base/cyberrealistic.safetensors",
+      "external_url": "https://civitai.com/api/download/models/89680",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "<ti:CyberRealistic_Negative>"
+        }
+      },
+      "tags": [
+        "photorealism"
+      ],
+      "created_at": "2023-06-16T20:20:46.808867+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "duchaiten-darkniji",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "DucHaitenDarkNiji",
+      "description": "Finetuned model is the perfect blend of darkness and Niji style",
+      "image_url": "https://www.mage.space/models/duchaiten-darkniji.jpg",
+      "short_description": "Finetuned model is the perfect blend of darkness and Niji style",
+      "download_url": "https://cdn.mage.space/models/base/duchaiten-darkniji.safetensors",
+      "external_url": "https://civitai.com/api/download/models/93834",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "illustration, 3d, 2d, painting, cartoons, sketch, (worst quality:1.4), (low quality:1.4), (normal quality:1.4), lowres, bad anatomy, bad hands, vaginas in breasts, ((monochrome)), ((grayscale)), collapsed eyeshadow, multiple eyeblows, (cropped), oversaturated, extra limb, missing limbs, deformed hands, long neck, long body, imperfect, (bad hands), signature, watermark, username, artist name, conjoined fingers, deformed fingers, ugly eyes, imperfect eyes, skewed eyes, unnatural face, unnatural body, error, bad image, bad photo"
+        }
+      },
+      "tags": [
+        "3d-art"
+      ],
+      "created_at": "2023-06-16T20:21:07.703310+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "meina-hentai",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "MeinaHentai",
+      "description": "Finetuned model brilliant for anime hentai",
+      "image_url": "/models/meina-hentai.jpg",
+      "short_description": "Finetuned model brilliant for anime hentai",
+      "download_url": "https://cdn.mage.space/models/base/meina-hentai.safetensors",
+      "external_url": "https://civitai.com/api/download/models/100675",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "(worst quality, low quality:1.4), monochrome, zombie, (interlocked fingers)"
+        }
+      },
+      "tags": [
+        "anime",
+        "nsfw"
+      ],
+      "created_at": "2023-07-07T04:07:09.109284+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "meina-unreal",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "MeinaUnreal",
+      "description": "Finetuned model excellent for 2.5D anime styles",
+      "image_url": "/models/meina-unreal.jpg",
+      "short_description": "Finetuned model excellent for 2.5D anime styles",
+      "download_url": "https://cdn.mage.space/models/base/meina-unreal.safetensors",
+      "external_url": "https://civitai.com/api/download/models/111415",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "(worst quality, low quality:1.4), (zombie, sketch, interlocked fingers:1.2, comic),"
+        }
+      },
+      "tags": [
+        "anime"
+      ],
+      "created_at": "2023-07-07T04:03:18.955167+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "uhd-v2",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "UHD V2",
+      "description": "Finetuned model excellent for men",
+      "image_url": "/models/uhd-v2.jpg",
+      "short_description": "Finetuned model excellent for men",
+      "download_url": "https://cdn.mage.space/models/base/uhd-v2.safetensors",
+      "external_url": "https://civitai.com/api/download/models/110660",
+      "is_nsfw": true,
+      "metadata": {
+        "base_settings": {
+          "base_size": 768
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "(worst simple background, jpeg artifacts, bad anatomy, anime, digital illustration, 3d rendering, text, overexposure:1.1)"
+        }
+      },
+      "tags": [
+        "photorealism",
+        "nsfw"
+      ],
+      "created_at": "2023-07-07T04:03:21.657652+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "openjourney",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "Openjourney",
+      "description": "Finetuned model on Midjourney high-quality art",
+      "image_url": "https://www.mage.space/models/openjourney.jpg",
+      "short_description": "Finetuned model on Midjourney high-quality art",
+      "download_url": "https://huggingface.co/prompthero/openjourney",
+      "external_url": "https://huggingface.co/prompthero/openjourney",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": ""
+        }
+      },
+      "tags": [
+        "art"
+      ],
+      "created_at": "2023-06-10T21:57:09.573217+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "perfect-world",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "Perfect World",
+      "description": "Finetuned model that balances high-quality realism with hentai",
+      "image_url": "https://www.mage.space/models/perfect-world.jpg",
+      "short_description": "Finetuned model that balances high-quality realism with hentai",
+      "download_url": "https://huggingface.co/ghunkins/stable-diffusion-perfect-world",
+      "external_url": "https://huggingface.co/ghunkins/stable-diffusion-perfect-world",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "3d, cartoon, anime, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ((grayscale)), skin spots, acnes, skin blemishes, bad anatomy, girl, loli, young, large breasts, red eyes, muscular"
+        }
+      },
+      "tags": [
+        "anime"
+      ],
+      "created_at": "2023-06-10T22:59:38.821731+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "hassaku",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "Hassaku",
+      "description": "Finetuned model excellent for Hentai",
+      "image_url": "https://www.mage.space/models/hassaku.jpg",
+      "short_description": "Finetuned model excellent for Hentai",
+      "download_url": "https://huggingface.co/ghunkins/stable-diffusion-hassaku",
+      "external_url": "https://huggingface.co/ghunkins/stable-diffusion-hassaku",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "<ti:EasyNegative>, backlight, (worst quality, low quality:1.2), watermark, logo, bad anatomy, topless, fat, bad anatomy"
+        }
+      },
+      "tags": [
+        "anime",
+        "nsfw"
+      ],
+      "created_at": "2023-06-10T23:02:36.988321+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "duchaiten-animefurry",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "DucHaitenAnimeFurry",
+      "description": "Finetuned model that is excellent for anime fur friends",
+      "image_url": "/models/duchaiten-animefurry.jpg",
+      "short_description": "Finetuned model that is excellent for anime fur friends",
+      "download_url": "https://cdn.mage.space/models/base/duchaiten-animefurry.safetensors",
+      "external_url": "https://civitai.com/api/download/models/91587",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "(worst quality:1.5), (low quality:1.5), (normal quality:1.5), lowres, bad anatomy, bad hands, vaginas in breasts, ((monochrome)), ((grayscale)), collapsed eyeshadow, multiple eyebrow, (cropped), oversaturated, extra limb, missing limbs, deformed hands, long neck, long body, imperfect, (bad hands), signature, watermark, username, artist name, conjoined fingers, deformed fingers, ugly eyes, imperfect eyes, skewed eyes, unnatural face, unnatural body, error, painting by bad-artist"
+        }
+      },
+      "tags": [
+        "anime"
+      ],
+      "created_at": "2023-07-07T04:04:16.604900+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "sdvn3-realart",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "SDVN3-RealArt",
+      "description": "Finetuned model excellent for unique art and photorealism crossovers",
+      "image_url": "/models/sdvn3-realart.jpg",
+      "short_description": "Finetuned model excellent for unique art and photorealism crossovers",
+      "download_url": "https://cdn.mage.space/models/base/sdvn3-realart.safetensors",
+      "external_url": "https://civitai.com/api/download/models/137750",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "scheduler": "unipc",
+          "negative_prompt": "worst quality, low quality",
+          "scheduler_use_karras": false
+        }
+      },
+      "tags": [
+        "art",
+        "photorealism"
+      ],
+      "created_at": "2023-08-06T22:44:54.142226+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "sdvn5-3dcutewave",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "SDVN5-3DCuteWave",
+      "description": "Finetuned model brilliant for cute 3D chibi illustrations",
+      "image_url": "/models/sdvn5-3dcutewave.jpg",
+      "short_description": "Finetuned model brilliant for cute 3D chibi illustrations",
+      "download_url": "https://cdn.mage.space/models/base/sdvn5-3dcutewave.safetensors",
+      "external_url": "https://civitai.com/api/download/models/137756",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "scheduler": "eulera",
+          "guidance_scale": 5,
+          "negative_prompt": "worst quality, low quality",
+          "scheduler_use_karras": false
+        }
+      },
+      "tags": [
+        "3d-art"
+      ],
+      "created_at": "2023-08-06T22:44:08.221285+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "cyberrealistic-v3",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "CyberRealistic V3",
+      "description": "Finetuned model exceptional at high-quality photorealism and LoRAs",
+      "image_url": "/models/cyberrealistic-v3.jpg",
+      "short_description": "Finetuned model exceptional at high-quality photorealism and LoRAs",
+      "download_url": "https://cdn.mage.space/models/base/cyberrealistic-v3.safetensors",
+      "external_url": "https://huggingface.co/ghunkins/random/resolve/main/cyberrealistic_v33_baked.safetensors",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "scheduler": "heun",
+          "guidance_scale": 5,
+          "negative_prompt": "<ti:CyberRealistic_Negative>",
+          "scheduler_use_karras": false
+        }
+      },
+      "tags": [
+        "photorealism"
+      ],
+      "created_at": "2023-09-02T02:48:35.638764+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "analog",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "Analog",
+      "description": "Finetuned model on high quality analog photographs",
+      "image_url": "https://www.mage.space/models/analog.jpg",
+      "short_description": "Finetuned model on high quality analog photographs",
+      "download_url": "https://huggingface.co/wavymulder/Analog-Diffusion",
+      "external_url": "https://huggingface.co/wavymulder/Analog-Diffusion",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "blur haze"
+        }
+      },
+      "tags": [
+        "photorealism"
+      ],
+      "created_at": "2023-06-10T21:58:12.481114+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "dreamix",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "Dreamix",
+      "description": "Finetuned model for incredible 3D creations",
+      "image_url": "/models/dreamix.jpg",
+      "short_description": "Finetuned model for incredible 3D creations",
+      "download_url": "https://cdn.mage.space/models/base/dreamix.safetensors",
+      "external_url": "https://civitai.com/api/download/models/134777?type=Model&format=SafeTensor&size=pruned&fp=fp16",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "scheduler": "dpmm",
+          "guidance_scale": 7,
+          "negative_prompt": "<ti:easynegative>, paintings, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, ((monochrome)), ((grayscale)), skin spots, acnes, age spots, extra fingers, fewer fingers, strange fingers, bad hand, ((((bad anatomy)))), bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, jpeg artifacts, signature, watermark, username, sunburn, ((simple background)), hermaphrodite, long neck, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, bad proportions, malformed limbs, extra limbs, cloned face, disfigured, gross proportions, (((missing arms))), (((missing legs))), (((extra arms))), (((extra legs))), (((extra breasts))), (((extra nipples))), plump, bad legs, error legs, bad feet, kid face,(identical twins),((misaligned nails)),((misaligned fingers)),((wrinkled knees )),(uneven skin tone), ((head wear)),((bruised knee))",
+          "scheduler_use_karras": true
+        }
+      },
+      "tags": [
+        "3d-art",
+        "anime"
+      ],
+      "created_at": "2023-09-02T02:49:16.412170+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "dark-sushi-mix-colorful",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "Dark Sushi Mix Colorful",
+      "description": "Finetuned model excellent for brilliant anime styles",
+      "image_url": "https://www.mage.space/models/dsm-colorful.jpg",
+      "short_description": "Finetuned model excellent for brilliant anime styles",
+      "download_url": "https://huggingface.co/ghunkins/stable-diffusion-dsm-colorful",
+      "external_url": "https://huggingface.co/ghunkins/stable-diffusion-dsm-colorful",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "guidance_scale": 5,
+          "negative_prompt": "sketch, duplicate, ugly, huge eyes, text, logo, monochrome, worst face, (bad and mutated hands:1.3), (worst quality:1.4), (low quality:1.4), (blurry:1.4), horror, geometry, <ti:bad_prompt_version2-neg>, (bad hands), (missing fingers), multiple limbs, bad anatomy, (interlocked fingers:1.2), Ugly Fingers, (extra digit and hands and fingers and legs and arms:1.4), ((2girl)), (deformed fingers:1.2), (long fingers:1.2),(<ti:By-bad-artist--neg>), bad-artist, bad hand, extra legs"
+        }
+      },
+      "tags": [
+        "anime"
+      ],
+      "created_at": "2023-06-16T20:20:58.173134+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "ghostmix-v2",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "GhostMix V2",
+      "description": "Finetuned model excellent for intricate anime",
+      "image_url": "https://www.mage.space/models/ghostmix-v2.jpg",
+      "short_description": "Finetuned model excellent for intricate anime",
+      "download_url": "https://cdn.mage.space/models/base/ghostmix-v2.safetensors",
+      "external_url": "https://civitai.com/api/download/models/76907",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 768
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "(worst quality, low quality:1.4), monochrome, zombie,overexposure, watermark,text,bad anatomy,bad hand,extra hands,extra fingers,too many fingers,fused fingers,bad arm,distorted arm,extra arms,fused arms,extra legs,missing leg,disembodied leg,extra nipples, detached arm, liquid hand,inverted hand,disembodied limb, small breasts, loli, oversized head,extra body,completely nude, extra navel,<ti:easynegative>,(hair between eyes),sketch, duplicate, ugly, huge eyes, text, logo, worst face, (bad and mutated hands:1.2), (blurry:1.4), horror, geometry, <ti:bad_prompt_version2-neg>, (bad hands), (missing fingers), multiple limbs, bad anatomy, (interlocked fingers:1.2), Ugly Fingers, (extra digit and hands and fingers and legs and arms:1.2), ((2girl)), (deformed fingers:1.2), (long fingers:1.2),(bad-artist-anime), bad-artist, bad hand, extra legs ,(<ti:ng_deepnegative_v1_75t>)"
+        }
+      },
+      "tags": [
+        "anime"
+      ],
+      "created_at": "2023-06-16T20:21:21.424577+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "manhwa",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "Manhwa",
+      "description": "Finetuned model brilliant for Korean Manhwa anime",
+      "image_url": "/models/manhwa.jpg",
+      "short_description": "Finetuned model brilliant for Korean Manhwa anime",
+      "download_url": "https://cdn.mage.space/models/base/manhwa.safetensors",
+      "external_url": "https://huggingface.co/ghunkins/random/resolve/main/MageManhwaBakedVae.safetensors",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "scheduler": "eulera",
+          "negative_prompt": "(worst quality, low quality:1.4), signature",
+          "scheduler_use_karras": false
+        }
+      },
+      "tags": [
+        "anime",
+        "exclusive"
+      ],
+      "created_at": "2023-08-07T00:21:06.701879+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "bra-v6",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "BeautifulRealisticAsians V6",
+      "description": "Finetuned model on stunning Asian photorealism",
+      "image_url": "/models/bra-v6.jpg",
+      "short_description": "Finetuned model on stunning Asian photorealism",
+      "download_url": "https://cdn.mage.space/models/base/bra-v6.safetensors",
+      "external_url": "https://civitai.com/api/download/models/113479",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "scheduler": "dpm_sde",
+          "guidance_scale": 5,
+          "negative_prompt": "(worst quality:2.0), low quality, blur ,deformed ugly, pixelated",
+          "scheduler_use_karras": true
+        }
+      },
+      "tags": [
+        "photorealism"
+      ],
+      "created_at": "2023-08-06T22:59:26.344008+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "lifelike",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "LifeLike",
+      "description": "Finetuned model brilliant for capturing realistic humans",
+      "image_url": "https://www.mage.space/models/lifelike.jpg",
+      "short_description": "Finetuned model brilliant for capturing realistic humans",
+      "download_url": "https://cdn.mage.space/models/base/lifelike.safetensors",
+      "external_url": "https://civitai.com/api/download/models/29682",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "((small-pupils, small-eyes, closed-eyes, ugly-eyes, multiple-navel, multiple belly-button)) ((lazy-eyes)) (deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime:1.4), text, close up, cropped, out of frame, worst quality, low quality, jpeg artifacts, ugly, duplicate, morbid, mutilated, extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck, closed-eyes, ugly-eyes, ((lazy-eyes))"
+        }
+      },
+      "tags": [
+        "photorealism"
+      ],
+      "created_at": "2023-06-16T20:21:19.799587+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "eimis",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "Eimis",
+      "description": "Finetuned model excellent for anime",
+      "image_url": "https://www.mage.space/models/eimis.jpg",
+      "short_description": "Finetuned model excellent for anime",
+      "download_url": "https://huggingface.co/eimiss/EimisAnimeDiffusion_1.0v",
+      "external_url": "https://huggingface.co/eimiss/EimisAnimeDiffusion_1.0v",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "lowres, bad anatomy, ((bad hands)), text, error, ((missing fingers)), cropped, jpeg artifacts, worst quality, low quality, signature, watermark, blurry, deformed, extra ears, deformed, disfigured, mutation, censored, ((multiple_girls))"
+        }
+      },
+      "tags": [
+        "anime"
+      ],
+      "created_at": "2023-06-10T22:09:19.036114+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "consistent-factor-euclid",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "Consistent Factor Euclid",
+      "description": "Finetuned model on high-quality photorealism",
+      "image_url": "/models/consistent-factor-euclid.jpg",
+      "short_description": "Finetuned model on high-quality photorealism",
+      "download_url": "https://cdn.mage.space/models/base/consistent-factor-euclid.safetensors",
+      "external_url": "https://huggingface.co/ghunkins/random/resolve/main/ConsistentFactorEuclidV61LEVAE.safetensors",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "scheduler": "dpm_sde",
+          "negative_prompt": "(unrealistic, render, 3d,cgi,cg,2.5d), <ti:easynegative>, <ti:ng_deepnegative_v1_75t>, worst quality, low quality, normal quality, child, (painting, drawing, sketch, cartoon, anime, render, 3d), blurry, deformed, disfigured, morbid, mutated, bad anatomy, bad art, (bad teeth, weird teeth, broken teeth), (worst quality, low quality, logo, text, watermark, username), incomplete, <ti:bad_prompt_version2-neg>",
+          "scheduler_use_karras": true
+        }
+      },
+      "tags": [
+        "photorealism"
+      ],
+      "created_at": "2023-08-07T01:08:55.402566+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "v2.1-768",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v2-1",
+      "name": "Stable Diffusion v2.1-768",
+      "description": "Base model excellent for HQ photorealism",
+      "image_url": "models/v2-1-768.jpg",
+      "short_description": "Base model excellent for HQ photorealism",
+      "download_url": "https://huggingface.co/stabilityai/stable-diffusion-2-1",
+      "external_url": "https://huggingface.co/stabilityai/stable-diffusion-2-1",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 768
+        },
+        "easy_mode_settings": {
+          "scheduler": "ddim",
+          "negative_prompt": "Poorly drawn face, poorly drawn hands, poorly drawn weapons, unnatural pose, blank background, boring background, render, unreal engine",
+          "scheduler_use_karras": false
+        }
+      },
+      "tags": [
+        "base",
+        "photorealism"
+      ],
+      "created_at": "2023-06-20T15:01:05.561409+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "ppp",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "PPP",
+      "description": "Finetuned model designed for risque photorealism",
+      "image_url": "https://www.mage.space/models/ppp.jpg",
+      "short_description": "Finetuned model designed for capturing incredible portraits",
+      "download_url": "https://huggingface.co/ghunkins/stable-diffusion-ppp",
+      "external_url": "https://huggingface.co/ghunkins/stable-diffusion-ppp",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": ""
+        }
+      },
+      "tags": [
+        "photorealism",
+        "nsfw"
+      ],
+      "created_at": "2023-06-10T22:10:19.946295+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "epicrealism-v5",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "epiCRealism V5",
+      "description": "Finetuned model brilliant for photorealism",
+      "image_url": "/models/epicrealism-v5.jpg",
+      "short_description": "Finetuned model brilliant for photorealism",
+      "download_url": "https://cdn.mage.space/models/base/epicrealism-v5.safetensors",
+      "external_url": "https://civitai.com/api/download/models/134065",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "scheduler": "dpm_sde",
+          "negative_prompt": "asian, chinese, busty, (<ti:epicnegative>:0.9)",
+          "scheduler_use_karras": true
+        }
+      },
+      "tags": [
+        "photorealism"
+      ],
+      "created_at": "2023-08-06T22:45:00.522259+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "onlyrealistic-v3",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "OnlyRealistic V3",
+      "description": "Finetuned model brilliant for Asian focused photorealism",
+      "image_url": "/models/onlyrealistic-v3.jpg",
+      "short_description": "Finetuned model brilliant for Asian focused photorealism",
+      "download_url": "https://cdn.mage.space/models/base/onlyrealistic-v3.safetensors",
+      "external_url": "https://civitai.com/api/download/models/139087?type=Model&format=SafeTensor&size=pruned&fp=fp16",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "scheduler": "dpmm",
+          "guidance_scale": 7,
+          "negative_prompt": "(deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime:1.4), text, cropped, out of frame, (worst quality, low quality:2), jpeg artifacts, ugly, duplicate, morbid, mutilated, extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck,(tree,wood:1.2), (stone:1.2), (green,black,white:1.4), (sandals:1.4),",
+          "scheduler_use_karras": true
+        }
+      },
+      "tags": [
+        "photorealism"
+      ],
+      "created_at": "2023-09-02T02:48:22.284073+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "pfg",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "PFG",
+      "description": "Finetuned model excellent for anime and hentai",
+      "image_url": "https://www.mage.space/models/pfg.jpg",
+      "short_description": "Finetuned model excellent for anime and hentai",
+      "download_url": "https://huggingface.co/ghunkins/stable-diffusion-pfg",
+      "external_url": "https://huggingface.co/ghunkins/stable-diffusion-pfg",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "(cartoon:1.1), 3d, obese, fat, ((disfigured)), ((bad art)), ((deformed)), ((poorly drawn)), ((extra limbs)), ((close up)), ((b&amp;w)), weird colors, blurry"
+        }
+      },
+      "tags": [
+        "anime",
+        "nsfw"
+      ],
+      "created_at": "2023-06-10T22:11:14.628335+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "consistent-factor-aurora",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "Consistent Factor Lumina",
+      "description": "Finetuned model excellent at bold and colorful art",
+      "image_url": "/models/consistent-factor-aurora.jpg",
+      "short_description": "Finetuned model excellent at bold and colorful art",
+      "download_url": "https://cdn.mage.space/models/base/consistent-factor-aurora.safetensors",
+      "external_url": "https://huggingface.co/ConsistentFactor/Aurora-By_Consistent_Factor/resolve/main/Aurora%20V3%20LuminaLE.safetensors",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "scheduler": "dpm_sde",
+          "negative_prompt": "(unrealistic, render, 3d,cgi,cg,2.5d), <ti:easynegative>, <ti:ng_deepnegative_v1_75t>, worst quality, low quality, normal quality, child, (painting, drawing, sketch, cartoon, anime, render, 3d), blurry, deformed, disfigured, morbid, mutated, bad anatomy, bad art, (bad teeth, weird teeth, broken teeth), (worst quality, low quality, logo, text, watermark, username), incomplete, <ti:bad_prompt_version2-neg>",
+          "scheduler_use_karras": true
+        }
+      },
+      "tags": [
+        "art"
+      ],
+      "created_at": "2023-08-07T00:38:04.879446+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "lifelike-v3",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "LifeLike V3",
+      "description": "Finetuned model brilliant for capturing realistic humans",
+      "image_url": "/models/lifelike-v3.jpg",
+      "short_description": "Finetuned model brilliant for capturing realistic humans",
+      "download_url": "https://cdn.mage.space/models/base/lifelike-v3.safetensors",
+      "external_url": "https://huggingface.co/ghunkins/random/resolve/main/lifeLikeDiffusionEthnicitiesSupportedNative_lifeLikeDiffusionV30_baked.safetensors",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "scheduler": "eulera",
+          "guidance_scale": 7.5,
+          "negative_prompt": "(deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime:1.4), text, close up, cropped, out of frame, worst quality, low quality, jpeg artifacts, ugly, duplicate, morbid, mutilated, extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck, closed-eyes, ugly-eyes, lazy eyes",
+          "scheduler_use_karras": false
+        }
+      },
+      "tags": [
+        "photorealism"
+      ],
+      "created_at": "2023-09-02T02:48:15.815207+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "consistent-factor-borealis",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "Consistent Factor Borealis",
+      "description": "Finetuned model brilliant for stunning landscapes",
+      "image_url": "/models/consistent-factor-borealis.jpg",
+      "short_description": "Finetuned model brilliant for stunning landscapes",
+      "download_url": "https://cdn.mage.space/models/base/consistent-factor-borealis.safetensors",
+      "external_url": "https://huggingface.co/ConsistentFactor/Borealis-By_Consistent_Factor/resolve/main/BorealisV1.safetensors",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "scheduler": "dpm_sde",
+          "negative_prompt": "(unrealistic, render, 3d,cgi,cg,2.5d), <ti:easynegative>, <ti:ng_deepnegative_v1_75t>, worst quality, low quality, normal quality, child, (painting, drawing, sketch, cartoon, anime, render, 3d), blurry, deformed, disfigured, morbid, mutated, bad anatomy, bad art, (bad teeth, weird teeth, broken teeth), (worst quality, low quality, logo, text, watermark, username), incomplete, <ti:bad_prompt_version2-neg>",
+          "scheduler_use_karras": true
+        }
+      },
+      "tags": [
+        "art",
+        "photorealism"
+      ],
+      "created_at": "2023-08-07T00:42:10.693091+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "realistic-vision",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "Realistic Vision",
+      "description": "Finetuned model excellent for photorealism",
+      "image_url": "https://www.mage.space/models/realistic-vision-ii.jpg",
+      "short_description": "Finetuned model excellent for photorealism",
+      "download_url": "https://huggingface.co/SG161222/Realistic_Vision_V1.3",
+      "external_url": "https://huggingface.co/SG161222/Realistic_Vision_V1.3",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "((((realistic, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime)))), cropped, worst quality, low quality, jpeg artifacts, ugly, duplicate, morbid, mutilated, out of frame, extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck"
+        }
+      },
+      "tags": [
+        "photorealism"
+      ],
+      "created_at": "2023-06-10T22:12:23.010752+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "aniverse",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "Aniverse",
+      "description": "Finetuned model for high-quality animations",
+      "image_url": "/models/aniverse.jpg",
+      "short_description": "Finetuned model for high-quality animations",
+      "download_url": "https://cdn.mage.space/models/base/aniverse.safetensors",
+      "external_url": "https://civitai.com/api/download/models/132478",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "scheduler": "dpm_sde",
+          "negative_prompt": "<ti:FastNegativeV2>",
+          "scheduler_use_karras": true
+        }
+      },
+      "tags": [
+        "3d-art",
+        "anime"
+      ],
+      "created_at": "2023-08-06T22:44:37.612953+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "dreamshaper-v8",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "DreamShaper V8",
+      "description": "Finetuned model that produces high-quality art",
+      "image_url": "/models/dreamshaper-v8.jpg",
+      "short_description": "Finetuned model that produces high-quality art",
+      "download_url": "https://cdn.mage.space/models/base/dreamshaper-v8.safetensors",
+      "external_url": "https://civitai.com/api/download/models/128713",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "scheduler": "dpm_sde",
+          "negative_prompt": "<ti:BadDream>, (<ti:UnrealisticDream>:1.3)",
+          "scheduler_use_karras": true
+        }
+      },
+      "tags": [
+        "art",
+        "photorealism"
+      ],
+      "created_at": "2023-08-06T22:44:51.017319+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "majicmix-realistic-v2",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "MajicMix Realistic V2",
+      "description": "Finetuned model brilliant for Majical photorealism",
+      "image_url": "/models/majicmix-realistic-v2.jpg",
+      "short_description": "Finetuned model brilliant for Majical photorealism",
+      "download_url": "https://cdn.mage.space/models/base/majicmix-realistic-v2.safetensors",
+      "external_url": "https://civitai.com/api/download/models/126470",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "scheduler": "eulera",
+          "negative_prompt": "(worst quality),(low quality),(normal quality),lowres,watermark,<ti:ng_deepnegative_v1_75t>,<ti:bhands-neg>",
+          "scheduler_use_karras": false
+        }
+      },
+      "tags": [
+        "photorealism"
+      ],
+      "created_at": "2023-08-06T22:44:25.916346+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "synthwave-punk",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "SynthwavePunk",
+      "description": "Finetuned model on the Synthwave and Inkpunk styles",
+      "image_url": "https://www.mage.space/models/synthwavepunk.jpg",
+      "short_description": "Finetuned model on the Synthwave and Inkpunk styles",
+      "download_url": "https://huggingface.co/ghunkins/stable-diffusion-synthwave-punk",
+      "external_url": "https://huggingface.co/ghunkins/stable-diffusion-synthwave-punk",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "cartoon, 3d, ((disfigured)), ((bad art)), ((deformed)), ((poorly drawn)), ((extra limbs)), ((close up)), ((b&w)), weird colors, blurry"
+        }
+      },
+      "tags": [
+        "art"
+      ],
+      "created_at": "2023-06-10T22:22:03.232430+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "yuzu",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "Yuzu",
+      "description": "Finetuned model excellent at semi-realistic anime",
+      "image_url": "/models/yuzu.jpg",
+      "short_description": "Finetuned model excellent at semi-realistic anime",
+      "download_url": "https://cdn.mage.space/models/base/yuzu.safetensors",
+      "external_url": "https://civitai.com/api/download/models/71749",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "(worst quality, low quality:1.4)"
+        }
+      },
+      "tags": [
+        "anime"
+      ],
+      "created_at": "2023-06-23T23:10:29.523633+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "deliberate",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "Deliberate",
+      "description": "Finetuned model made for the masters",
+      "image_url": "https://www.mage.space/models/deliberate.jpg",
+      "short_description": "Finetuned model made for the masters",
+      "download_url": "https://huggingface.co/ghunkins/stable-diffusion-deliberate",
+      "external_url": "https://huggingface.co/ghunkins/stable-diffusion-deliberate",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "deformed, bad anatomy, disfigured, poorly drawn face, mutation, mutated, extra limb, ugly, disgusting, poorly drawn hands, missing limb, floating limbs, disconnected limbs, malformed hands, blurry, (mutated hands and fingers:1.1), watermark, watermarked, oversaturated, censored, distorted hands, amputation, missing hands, obese, doubled face, double hands"
+        }
+      },
+      "tags": [
+        "art",
+        "photorealism"
+      ],
+      "created_at": "2023-06-10T22:23:09.691166+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "realistic-vision-v5",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "Realistic Vision V5",
+      "description": "Finetuned model excellent for photorealism",
+      "image_url": "/models/realistic-vision-v5.jpg",
+      "short_description": "Finetuned model excellent for photorealism",
+      "download_url": "https://cdn.mage.space/models/base/realistic-vision-v5.safetensors",
+      "external_url": "https://civitai.com/api/download/models/130072",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "scheduler": "dpm_sde",
+          "negative_prompt": "(deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime:1.4), text, close up, cropped, out of frame, worst quality, low quality, jpeg artifacts, ugly, duplicate, morbid, mutilated, extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck",
+          "scheduler_use_karras": true
+        }
+      },
+      "tags": [
+        "photorealism"
+      ],
+      "created_at": "2023-08-06T22:44:23.110635+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "grapefruit",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "Grapefruit",
+      "description": "Finetuned model excellent for Hentai",
+      "image_url": "https://www.mage.space/models/grapefruit.jpg",
+      "short_description": "Finetuned model excellent for Hentai",
+      "download_url": "https://huggingface.co/ghunkins/stable-diffusion-grapefruit",
+      "external_url": "https://huggingface.co/ghunkins/stable-diffusion-grapefruit",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "(worst quality, low quality:2), monochrome, zombie,overexposure, watermark,text,bad anatomy,bad hand,extra hands,extra fingers,too many fingers,fused fingers,bad arm,distorted arm,extra arms,fused arms,extra legs,missing leg,disembodied leg,extra nipples, detached arm, liquid hand,inverted hand,disembodied limb, small breasts, loli, oversized head,extra body,completely nude, extra navel,easynegative,(hair between eyes),sketch, duplicate, ugly, huge eyes, text, logo, worst face, (bad and mutated hands:1.3), (blurry:2.0), horror, geometry, bad_prompt, (bad hands), (missing fingers), multiple limbs, bad anatomy, (interlocked fingers:1.2), Ugly Fingers, (extra digit and hands and fingers and legs and arms:1.4), ((2girl)), (deformed fingers:1.2), (long fingers:1.2),(bad-artist-anime), bad-artist, bad hand, extra legs"
+        }
+      },
+      "tags": [
+        "anime",
+        "nsfw"
+      ],
+      "created_at": "2023-06-10T22:24:14.330334+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "perfect-world-v5",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "Perfect World V5",
+      "description": "Finetuned model that balances high-quality realism with hentai",
+      "image_url": "/models/perfect-world-v5.jpg",
+      "short_description": "Finetuned model that balances high-quality realism with hentai",
+      "download_url": "https://cdn.mage.space/models/base/perfect-world-v5.safetensors",
+      "external_url": "https://civitai.com/api/download/models/129687",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "scheduler": "dpmm",
+          "negative_prompt": "(worst quality, low quality:1.4), logo, watermark",
+          "scheduler_use_karras": true
+        }
+      },
+      "tags": [
+        "anime"
+      ],
+      "created_at": "2023-08-06T22:45:16.822815+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "liberty",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "Liberty",
+      "description": "Finetuned model designed for freedom & versatility",
+      "image_url": "https://www.mage.space/models/liberty-ii.jpg",
+      "short_description": "Finetuned model designed for freedom & versatility",
+      "download_url": "https://huggingface.co/ghunkins/stable-diffusion-liberty",
+      "external_url": "https://huggingface.co/ghunkins/stable-diffusion-liberty",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "canvas frame, cartoon, 3d, ((disfigured)), ((bad art)), ((deformed)),((extra limbs)),((close up)),((b&w)), wierd colors, blurry, (((duplicate))), ((morbid)), ((mutilated)), [out of frame], extra fingers, mutated hands, ((poorly drawn hands)), ((poorly drawn face)), (((mutation))), (((deformed))), ((ugly)), blurry, ((bad anatomy)), (((bad proportions))), ((extra limbs)), cloned face, (((disfigured))), out of frame, ugly, extra limbs, (bad anatomy), gross proportions, (malformed limbs), ((missing arms)), ((missing legs)), (((extra arms))), (((extra legs))), mutated hands, (fused fingers), (too many fingers), (((long neck))), Photoshop, video game, ugly, tiling, poorly drawn hands, poorly drawn feet, poorly drawn face, out of frame, mutation, mutated, extra limbs, extra legs, extra arms, disfigured, deformed, cross-eye, body out of frame, blurry, bad art, bad anatomy, (worst quality, low quality:1.4)"
+        }
+      },
+      "tags": [
+        "photorealism"
+      ],
+      "created_at": "2023-06-10T22:25:03.562019+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "onlyrealistic",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "OnlyRealistic",
+      "description": "Finetuned model brilliant for Asian focused photorealism",
+      "image_url": "/models/onlyrealistic.jpg",
+      "short_description": "Finetuned model brilliant for Asian focused photorealism",
+      "download_url": "https://cdn.mage.space/models/base/onlyrealistic.safetensors",
+      "external_url": "https://civitai.com/api/download/models/130040",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "scheduler": "dpm_sde",
+          "negative_prompt": "(deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime), text, cropped, out of frame, (worst quality:2), low quality, jpeg artifacts, ugly, duplicate, morbid, mutilated, extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck, (wood:1.2), (stone:1.2), (<ti:UnrealisticDream>:1.2), (black and white:1.2),",
+          "scheduler_use_karras": true
+        }
+      },
+      "tags": [
+        "photorealism"
+      ],
+      "created_at": "2023-08-06T22:44:55.096842+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "duchaiten-sdxl",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sdxl",
+      "name": "DucHaitenSDXL",
+      "description": "Finetuned model brilliant for high-resolution images",
+      "image_url": "/models/duchaiten-sdxl.jpg",
+      "short_description": "Finetuned model brilliant for high-resolution images",
+      "download_url": "https://cdn.mage.space/models/base/duchaiten-sdxl.safetensors",
+      "external_url": "https://civitai.com/api/download/models/136754",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 1024
+        },
+        "easy_mode_settings": {
+          "scheduler": "eulera",
+          "guidance_scale": 7.5,
+          "negative_prompt": "ugly, deformed, noisy, blurry, distorted, grainy",
+          "scheduler_use_karras": false
+        }
+      },
+      "tags": [
+        "art",
+        "photorealism"
+      ],
+      "created_at": "2023-09-03T14:26:49.053792+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "portrait-plus",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "Portrait Plus",
+      "description": "Finetuned model designed for capturing incredible portraits",
+      "image_url": "https://www.mage.space/models/portrait-plus.jpg",
+      "short_description": "Finetuned model designed for capturing incredible portraits",
+      "download_url": "https://huggingface.co/wavymulder/portraitplus",
+      "external_url": "https://huggingface.co/wavymulder/portraitplus",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "blur haze"
+        }
+      },
+      "tags": [
+        "photorealism"
+      ],
+      "created_at": "2023-06-10T22:25:23.326474+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "realistic-vision-v4",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "Realistic Vision V4",
+      "description": "Finetuned model excellent for photorealism",
+      "image_url": "/models/realistic-vision-v4.jpg",
+      "short_description": "Finetuned model excellent for photorealism",
+      "download_url": "https://cdn.mage.space/models/base/realistic-vision-v4.safetensors",
+      "external_url": "https://civitai.com/api/download/models/114367",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "scheduler": "dpm_sde",
+          "negative_prompt": "(deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime), text, cropped, out of frame, worst quality, low quality, jpeg artifacts, ugly, duplicate, morbid, mutilated, extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck, <ti:BadDream>, <ti:UnrealisticDream>",
+          "scheduler_use_karras": true
+        }
+      },
+      "tags": [
+        "photorealism"
+      ],
+      "created_at": "2023-08-06T22:43:21.076337+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "meinamix-v11",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "MeinaMix V11",
+      "description": "Finetuned model designed for exceptional anime",
+      "image_url": "/models/meinamix-v11.jpg",
+      "short_description": "Finetuned model designed for exceptional anime",
+      "download_url": "https://cdn.mage.space/models/base/meinamix-v11.safetensors",
+      "external_url": "https://civitai.com/api/download/models/119057",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "scheduler": "dpm_sde",
+          "negative_prompt": "(worst quality, low quality:1.4), monochrome, zombie, (interlocked fingers:1.2)",
+          "scheduler_use_karras": true
+        }
+      },
+      "tags": [
+        "anime"
+      ],
+      "created_at": "2023-08-07T01:23:45.751146+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "jade-defiant",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "Jade Defiant",
+      "description": "Finetuned model excellent at photorealism",
+      "image_url": "/models/jade.jpg",
+      "short_description": "Finetuned model excellent at photorealism",
+      "download_url": "https://cdn.mage.space/models/base/jade-defiant.safetensors",
+      "external_url": "https://huggingface.co/SilasModder/JadeDefiantV11/resolve/main/JadeDefiantV11.safetensors",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "<ti:BadDream> <ti:EasyNegative> (worst quality:1.2), (low quality:1.2), sketch, watermark, text copyright signature, cut out, cgi, hands, Two bodies, Two heads, doll, extra nipples, bad anatomy, blurry, fuzzy, extra arms, extra fingers, poorly drawn hands, disfigured, tiling, deformed, mutated, out of frame, cloned face"
+        }
+      },
+      "tags": [
+        "photorealism",
+        "exclusive"
+      ],
+      "created_at": "2023-06-21T20:54:11.034186+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "rpg",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "RPG",
+      "description": "Finetuned model designed for RPG portraits and assets",
+      "image_url": "https://www.mage.space/models/rpg.jpg",
+      "short_description": "Finetuned model designed for RPG portraits and assets",
+      "download_url": "https://huggingface.co/ghunkins/stable-diffusion-rpg",
+      "external_url": "https://huggingface.co/ghunkins/stable-diffusion-rpg",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "blurry, deformed face, deformed hands, deformed fingers, ugly, bad anatomy, extra fingers, extra hands, deformed eyes, logo, text"
+        }
+      },
+      "tags": [
+        "art"
+      ],
+      "created_at": "2023-06-10T22:26:21.635699+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "samaritan",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "Samaritan 3D Cartoon",
+      "description": "Finetuned model created for cinematic 3D cartoons",
+      "image_url": "/models/samaritan.jpg",
+      "short_description": "Finetuned model created for cinematic 3D cartoons",
+      "download_url": "https://huggingface.co/ghunkins/stable-diffusion-samaritan-3d",
+      "external_url": "https://huggingface.co/ghunkins/stable-diffusion-samaritan-3d",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "scheduler": "eulera",
+          "guidance_scale": 5,
+          "negative_prompt": "<ti:EasyNegative>, drawn by <ti:By-bad-artist--neg>, sketch by bad-artist-anime, (<ti:bad_prompt_version2-neg>:0.8), (artist name, signature, watermark:1.4), (ugly:1.2), (worst quality, poor details:1.4), <ti:negative_hand-neg>, blurry,",
+          "scheduler_use_karras": false
+        }
+      },
+      "tags": [
+        "3d-art"
+      ],
+      "created_at": "2023-06-23T23:10:04.728435+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "duchaiten-supercute",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "DucHaitenSuperCute",
+      "description": "Finetuned model excellent for all things cute",
+      "image_url": "https://www.mage.space/models/super-cute.jpg",
+      "short_description": "Finetuned model excellent for all things cute",
+      "download_url": "https://huggingface.co/ghunkins/stable-diffusion-duchaiten-supercute",
+      "external_url": "https://huggingface.co/ghunkins/stable-diffusion-duchaiten-supercute",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "illustration, 3d, sepia, painting, cartoons, sketch, (worst quality:1.3), (low quality:1.3), (normal quality:1.3), lowres, bad anatomy, bad hands, ((monochrome)), ((grayscale)), futanari, full-package_futanari, penis_from_girl, newhalf, nipplepierces, glans penis, collapsed eyeshadow, multiple eyeblows, vaginas in breasts, holes on breasts, (cropped), oversaturated, extra limb, ugly, missing limbs, deformed hands, long neck, long body, imperfect, (bad hands), signature, watermark, username, artist name, conjoined fingers, deformed fingers, ugly eyes, imperfect eyes, skewed eyes, unnatural face, unbalanced body, unnatural body, error"
+        }
+      },
+      "tags": [
+        "3d-art"
+      ],
+      "created_at": "2023-06-10T22:27:26.924041+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "xxmix-9realistic",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "XXMix 9Realistic",
+      "description": "Finetuned model excellent for photorealistic portraits",
+      "image_url": "/models/xxmix.jpg",
+      "short_description": "Finetuned model excellent for photorealistic portraits",
+      "download_url": "https://cdn.mage.space/models/base/xxmix-9realistic.safetensors",
+      "external_url": "https://civitai.com/api/download/models/102222",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "scheduler": "dpm_sde",
+          "guidance_scale": 5,
+          "negative_prompt": "<ti:EasyNegative>,<ti:ng_deepnegative_v1_75t>,(worst quality:2),(low quality:2),(normal quality:2),lowres,bad anatomy,bad hands,normal quality,((monochrome)),((grayscale)),((watermark)),",
+          "scheduler_use_karras": true
+        }
+      },
+      "tags": [
+        "photorealism"
+      ],
+      "created_at": "2023-06-23T23:10:34.271632+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "bra-v5",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "BeautifulRealisticAsians V5",
+      "description": "Finetuned model on stunning Asian photorealism",
+      "image_url": "/models/bra-v5.jpg",
+      "short_description": "Finetuned model on stunning Asian photorealism",
+      "download_url": "https://cdn.mage.space/models/base/bra-v5.safetensors",
+      "external_url": "https://civitai.com/api/download/models/63786",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "(worst quality:2.0)"
+        }
+      },
+      "tags": [
+        "photorealism"
+      ],
+      "created_at": "2023-06-23T23:11:03.974736+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "sudachi",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "Sudachi",
+      "description": "Finetuned model brilliant for flat 2D anime styles",
+      "image_url": "/models/sudachi.jpg",
+      "short_description": "Finetuned model brilliant for flat 2D anime styles",
+      "download_url": "https://cdn.mage.space/models/base/sudachi.safetensors",
+      "external_url": "https://civitai.com/api/download/models/91337",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "(worst quality, low quality:1.3),"
+        }
+      },
+      "tags": [
+        "anime"
+      ],
+      "created_at": "2023-06-23T23:13:23.350191+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "yiffymix-v3",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "YiffyMix V3",
+      "description": "Finetuned model excellent for fur friends",
+      "image_url": "/models/yiffymix-v3.jpg",
+      "short_description": "Finetuned model excellent for fur friends",
+      "download_url": "https://huggingface.co/ghunkins/stable-diffusion-yiffymix-v3",
+      "external_url": "https://huggingface.co/ghunkins/stable-diffusion-yiffymix-v3",
+      "is_nsfw": true,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "low res, lowres, blurry, bad anatomy, letterbox, deformity, mutilated, malformed, amputee, watermark, signature, unusual anatomy, username, sketch, monochrome, sex, penetration, breasts, pussy, penis, nude"
+        }
+      },
+      "tags": [
+        "anime",
+        "nsfw"
+      ],
+      "created_at": "2023-06-23T23:10:05.633601+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "dreamful-v3",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "DreamFul V3",
+      "description": "Finetuned model that produces dreamy images",
+      "image_url": "/models/dreamful-v3.jpg",
+      "short_description": "Finetuned model that produces dreamy images",
+      "download_url": "https://cdn.mage.space/models/base/dreamful-v3.safetensors",
+      "external_url": "https://civitai.com/api/download/models/70414",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "illustration, 3d, 2d, painting, cartoons, sketch, (worst quality:2), (low quality:2), (normal quality:2), lowres, bad anatomy, bad hands, vaginas in breasts, ((monochrome)), ((grayscale)), collapsed eyeshadow, multiple eyeblows, (cropped), oversaturated, extra limb, missing limbs, deformed hands, long neck, long body, imperfect, (bad hands), signature, watermark, username, artist name, conjoined fingers, deformed fingers, ugly eyes, imperfect eyes, skewed eyes, unnatural face, unnatural body, error, bad image, bad photo,painting by bad-artist-anime, painting by <ti:By-bad-artist--neg>"
+        }
+      },
+      "tags": [
+        "photorealism"
+      ],
+      "created_at": "2023-06-23T23:16:33.093949+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "rev-animated",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "ReV Animated",
+      "description": "Finetuned model excellent at highly detailed anime",
+      "image_url": "/models/rev-animated.jpg",
+      "short_description": "Finetuned model excellent at highly detailed anime",
+      "download_url": "https://huggingface.co/ghunkins/stable-diffusion-rev-animated",
+      "external_url": "https://huggingface.co/ghunkins/stable-diffusion-rev-animated",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "3d, cartoon, anime, sketches, (worst quality, bad quality, child, cropped:1.4) ((monochrome)), ((grayscale)), (bad-hands-5:1.0), <ti:negative_hand-neg>, <ti:EasyNegative>, <ti:By-bad-artist--neg>, <ti:bad_pictures>"
+        }
+      },
+      "tags": [
+        "anime"
+      ],
+      "created_at": "2023-06-23T23:10:14.222263+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "epicrealism",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "epiCRealism",
+      "description": "Finetuned model brilliant for photorealism",
+      "image_url": "/models/epicrealism.jpg",
+      "short_description": "Finetuned model brilliant for photorealism",
+      "download_url": "https://cdn.mage.space/models/base/epicrealism.safetensors",
+      "external_url": "https://civitai.com/api/download/models/105035",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "asian, chinese, busty, (<ti:epicnegative>:0.9)"
+        }
+      },
+      "tags": [
+        "photorealism"
+      ],
+      "created_at": "2023-06-30T04:46:44.065330+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "realistic-vision-v3",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "Realistic Vision V3",
+      "description": "Finetuned model excellent for photorealism",
+      "image_url": "/models/rv3.jpg",
+      "short_description": "Finetuned model excellent for photorealism",
+      "download_url": "https://cdn.mage.space/models/base/realistic-vision-v3.safetensors",
+      "external_url": "https://civitai.com/api/download/models/105674",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "(deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime:1.4), text, close up, cropped, out of frame, worst quality, low quality, jpeg artifacts, ugly, duplicate, morbid, mutilated, extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck"
+        }
+      },
+      "tags": [
+        "photorealism"
+      ],
+      "created_at": "2023-06-30T04:46:44.559110+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "duchaiten-classic-anime",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "DucHaitenClassicAnime",
+      "description": "Finetuned model excellent for classic anime",
+      "image_url": "https://www.mage.space/models/classic-anime.jpg",
+      "short_description": "Finetuned model excellent for classic anime",
+      "download_url": "https://huggingface.co/DucHaiten/DH_ClassicAnime",
+      "external_url": "https://huggingface.co/DucHaiten/DH_ClassicAnime",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "painting by bad-artist-anime, painting by bad-artist, lowres, disfigured, ostentatious, oversaturated, grain, low resolution, disfigured, blurry, bad anatomy, disfigured, poorly drawn face, mutant, extra limb, ugly, poorly drawn hands, missing limbs, blurred, floating limbs, disjointed limbs, deformed hands, blurred, out of focus, long neck, long body, (cropped), distorted, imperfect, (bad hands), error, worst quality, low quality, normal quality, signature, watermark, username, blurry, artist name, extra limbs, (extra fingers), conjoined fingers, deformed fingers, ugly eyes, imperfect eyes, skewed eyes, unnatural face, stiff face, stiff body, unbalanced body, unnatural body, details are not clear, (ugly hands), imperfect hands"
+        }
+      },
+      "tags": [
+        "anime"
+      ],
+      "created_at": "2023-06-10T22:30:34.315556+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "neverending-dream",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "NeverEnding Dream",
+      "description": "Finetuned model designed for realism & anime",
+      "image_url": "https://www.mage.space/models/neverending-dream.jpg",
+      "short_description": "Finetuned model designed for realism & anime",
+      "download_url": "https://huggingface.co/Lykon/NeverEnding-Dream",
+      "external_url": "https://huggingface.co/Lykon/NeverEnding-Dream",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "(deformed iris, deformed pupils, semi-realistic, cgi, 3d, render, sketch, cartoon, drawing, anime:1.4), signature, text, close up, cropped, out of frame, worst quality, low quality, jpeg artifacts, ugly, duplicate, morbid, mutilated, extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, blurry, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck"
+        }
+      },
+      "tags": [
+        "anime",
+        "photorealism"
+      ],
+      "created_at": "2023-06-10T22:31:49.825138+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "talmendo-xl",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sdxl",
+      "name": "TalmendoXL",
+      "description": "Finetuned model excellent for photorealism",
+      "image_url": "/models/talmendo-xl.jpg",
+      "short_description": "Finetuned model excellent for photorealism",
+      "download_url": "https://cdn.mage.space/models/base/talmendo-xl.safetensors",
+      "external_url": "https://civitai.com/api/download/models/131960",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 1024
+        },
+        "easy_mode_settings": {
+          "scheduler": "dpmm",
+          "guidance_scale": 7.5,
+          "negative_prompt": "graphite, crayon, soft, drawing, render cgi, impressionist, deformed, mutated, disfigured, distorted, blurry, sketch, grainy, (ugly:0.3), anime cartoon illustration, vignette, bokeh, child",
+          "scheduler_use_karras": true
+        }
+      },
+      "tags": [
+        "photorealism"
+      ],
+      "created_at": "2023-09-03T01:14:53.444841+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "infini-anime-xl",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sdxl",
+      "name": "InfiniAnimeXL",
+      "description": "Finetuned model amazing for anime",
+      "image_url": "/models/infini-xl.jpg",
+      "short_description": "Finetuned model amazing for anime",
+      "download_url": "https://cdn.mage.space/models/base/infini-anime-xl.safetensors",
+      "external_url": "https://civitai.com/api/download/models/146334",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 1024
+        },
+        "easy_mode_settings": {
+          "scheduler": "dpmm",
+          "guidance_scale": 9,
+          "negative_prompt": "(worst quality:1.5),(low quality:1.5),(normal quality:1.5), (monochrome),(grayscale),(watermark),(white letters),signature,username,text,error,(manicure),((nsfw))",
+          "scheduler_use_karras": true
+        }
+      },
+      "tags": [
+        "anime"
+      ],
+      "created_at": "2023-09-03T01:17:57.837443+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "realvisxl",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sdxl",
+      "name": "RealVisXL",
+      "description": "Finetuned model for incredible realism",
+      "image_url": "/models/realvisxl.jpg",
+      "short_description": "Finetuned model for incredible realism",
+      "download_url": "https://cdn.mage.space/models/base/realvisxl.safetensors",
+      "external_url": "https://civitai.com/api/download/models/154590",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 1024
+        },
+        "easy_mode_settings": {
+          "scheduler": "dpmm",
+          "guidance_scale": 7.5,
+          "negative_prompt": "(worst quality, low quality, illustration, 3d, 2d, painting, cartoons, sketch), open mouth",
+          "scheduler_use_karras": true
+        }
+      },
+      "tags": [
+        "photorealism"
+      ],
+      "created_at": "2023-09-03T17:33:35.713948+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "dynavision-xl",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sdxl",
+      "name": "DynaVision XL",
+      "description": "Finetuned model for brilliant 3D art styles",
+      "image_url": "/models/dynavision-xl.jpg",
+      "short_description": "Finetuned model for brilliant 3D art styles",
+      "download_url": "https://cdn.mage.space/models/base/dynavision-xl.safetensors",
+      "external_url": "https://civitai.com/api/download/models/148259",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 1024
+        },
+        "easy_mode_settings": {
+          "scheduler": "dpmm",
+          "guidance_scale": 7.5,
+          "negative_prompt": "photographic, realistic, realism, 35mm film, dslr, cropped, frame, text, deformed, glitch, noise, noisy, off-center, deformed, cross-eyed, closed eyes, bad anatomy, ugly, disfigured, sloppy, duplicate, mutated, black and white",
+          "scheduler_use_karras": true
+        }
+      },
+      "tags": [
+        "3d-art",
+        "art"
+      ],
+      "created_at": "2023-09-02T21:53:48.052351+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "protovision-xl",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sdxl",
+      "name": "ProtoVision XL",
+      "description": "Finetuned model excellent at high fidelity portraits",
+      "image_url": "/models/protovision-xl.jpg",
+      "short_description": "Finetuned model excellent at high fidelity portraits",
+      "download_url": "https://cdn.mage.space/models/base/protovision-xl.safetensors",
+      "external_url": "https://civitai.com/api/download/models/144229",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 1024
+        },
+        "easy_mode_settings": {
+          "scheduler": "dpmm",
+          "guidance_scale": 5,
+          "negative_prompt": "ugly, deformed, noisy, blurry, distorted, grainy",
+          "scheduler_use_karras": true
+        }
+      },
+      "tags": [
+        "photorealism",
+        "art"
+      ],
+      "created_at": "2023-09-03T01:14:01.159853+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "copax-timeless-xl",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sdxl",
+      "name": "Copax Timeless XL",
+      "description": "Finetuned model excellent at high fidelity portraits",
+      "image_url": "/models/copax-xl.jpg",
+      "short_description": "Finetuned model excellent at high fidelity portraits",
+      "download_url": "https://cdn.mage.space/models/base/copax-timeless-xl.safetensors",
+      "external_url": "https://civitai.com/api/download/models/150238",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 1024
+        },
+        "easy_mode_settings": {
+          "scheduler": "eulera",
+          "guidance_scale": 7.5,
+          "negative_prompt": "ugly, deformed, noisy, blurry, distorted, grainy",
+          "scheduler_use_karras": false
+        }
+      },
+      "tags": [
+        "photorealism",
+        "art"
+      ],
+      "created_at": "2023-09-03T01:20:02.592358+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "sdvn6-realxl",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sdxl",
+      "name": "SDVN6-RealXL",
+      "description": "Finetuned model brilliant for artistic portraits",
+      "image_url": "/models/sdvn6-realxl.jpg",
+      "short_description": "Finetuned model excellent at high fidelity portraits",
+      "download_url": "https://cdn.mage.space/models/base/sdvn6-realxl.safetensors",
+      "external_url": "https://civitai.com/api/download/models/134461",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 1024
+        },
+        "easy_mode_settings": {
+          "scheduler": "eulera",
+          "guidance_scale": 9,
+          "negative_prompt": "(worst quality, low quality, illustration, 3d, 2d, painting, cartoons, sketch), tooth, open mouth",
+          "scheduler_use_karras": false
+        }
+      },
+      "tags": [
+        "photorealism",
+        "art"
+      ],
+      "created_at": "2023-09-03T01:19:49.110019+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "sdxl-niji",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sdxl",
+      "name": "SDXL Niji",
+      "description": "Finetuned model superb for Niji styled images",
+      "image_url": "/models/sdxl-niji.jpg",
+      "short_description": "Finetuned model superb for Niji styled images",
+      "download_url": "https://cdn.mage.space/models/base/sdxl-niji.safetensors",
+      "external_url": "https://civitai.com/api/download/models/154625",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 1024
+        },
+        "easy_mode_settings": {
+          "scheduler": "eulera",
+          "guidance_scale": 7.5,
+          "negative_prompt": "ugly, deformed, noisy, blurry, distorted, grainy",
+          "scheduler_use_karras": false
+        }
+      },
+      "tags": [
+        "3d-art",
+        "art"
+      ],
+      "created_at": "2023-09-03T01:14:58.656831+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "helloworld-sdxl",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sdxl",
+      "name": "HelloWorld SDXL",
+      "description": "Finetuned model brilliant for Asian-focused realism",
+      "image_url": "/models/helloworld-sdxl.jpg",
+      "short_description": "Finetuned model brilliant for Asian-focused realism",
+      "download_url": "https://cdn.mage.space/models/base/helloworld-sdxl.safetensors",
+      "external_url": "https://civitai.com/api/download/models/150851",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 1024
+        },
+        "easy_mode_settings": {
+          "scheduler": "dpmm",
+          "guidance_scale": 7.5,
+          "negative_prompt": "(worst quality, low quality, cgi, bad eye, worst eye, illustration, cartoon), deformed, distorted, disfigured, poorly drawn, bad anatomy, wrong anatomy, open mouth",
+          "scheduler_use_karras": true
+        }
+      },
+      "tags": [
+        "photorealism"
+      ],
+      "created_at": "2023-09-03T01:14:26.400847+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "dreamshaper-xl",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sdxl",
+      "name": "DreamShaperXL",
+      "description": "Finetuned model brilliant for high-resolution images",
+      "image_url": "/models/dreamshaper-xl.jpg",
+      "short_description": "Finetuned model brilliant for high-resolution images",
+      "download_url": "https://cdn.mage.space/models/base/dreamshaper-xl.safetensors",
+      "external_url": "https://civitai.com/api/download/models/126688",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 1024
+        },
+        "easy_mode_settings": {
+          "scheduler": "eulera",
+          "guidance_scale": 7.5,
+          "negative_prompt": "ugly, deformed, noisy, blurry, distorted, grainy",
+          "scheduler_use_karras": false
+        }
+      },
+      "tags": [
+        "art",
+        "photorealism"
+      ],
+      "created_at": "2023-09-03T14:26:40.182566+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "duchaiten-x-mage",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sdxl",
+      "name": "DucHaitenXMage",
+      "description": "Finetuned model exceptional at 3D art",
+      "image_url": "/models/duchaiten-x-mage-ii.jpg",
+      "short_description": "Finetuned model exceptional at 3D art",
+      "download_url": "https://cdn.mage.space/models/base/duchaiten-x-mage.safetensors",
+      "external_url": "https://huggingface.co/ghunkins/random/resolve/main/DucHaiten-Mage-SDXL_v2.4.4.5.5.3.5.safetensors",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 1024
+        },
+        "easy_mode_settings": {
+          "scheduler": "eulera",
+          "guidance_scale": 9,
+          "negative_prompt": "(worst quality:1.5), (low quality:1.5), (normal quality:1.5), lowres, bad anatomy, bad hands, multiple eyebrow, (cropped), extra limb, missing limbs, deformed hands, long neck, long body, (bad hands), signature, username, artist name, conjoined fingers, deformed fingers, ugly eyes, imperfect eyes, skewed eyes, unnatural face, unnatural body, error, painting by bad-artist",
+          "scheduler_use_karras": false
+        }
+      },
+      "tags": [
+        "exclusive",
+        "3d-art",
+        "art"
+      ],
+      "created_at": "2023-09-03T00:56:07.689801+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "juggernaut-xl",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sdxl",
+      "name": "JuggernautXL",
+      "description": "Finetuned model brilliant for photorealism",
+      "image_url": "/models/juggernaut-xl-iii.jpg",
+      "short_description": "Finetuned model brilliant for photorealism",
+      "download_url": "https://cdn.mage.space/models/base/juggernaut-xl.safetensors",
+      "external_url": "https://civitai.com/api/download/models/152076",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 1024
+        },
+        "easy_mode_settings": {
+          "scheduler": "dpmm",
+          "guidance_scale": 7.5,
+          "negative_prompt": "(worst quality, low quality, normal quality, lowres, low details, oversaturated, undersaturated, overexposed, underexposed, grayscale, bw, bad photo, bad photography, bad art:1.4), (watermark, signature, text font, username, error, logo, words, letters, digits, autograph, trademark, name:1.2), (blur, blurry, grainy), morbid, ugly, asymmetrical, mutated malformed, mutilated, poorly lit, bad shadow, draft, cropped, out of frame, cut off, censored, jpeg artifacts, out of focus, glitch, duplicate, (airbrushed, cartoon, anime, semi-realistic, cgi, render, blender, digital art, manga, amateur:1.3), (3D ,3D Game, 3D Game Scene, 3D Character:1.1), (bad hands, bad anatomy, bad body, bad face, bad teeth, bad arms, bad legs, deformities:1.3)",
+          "scheduler_use_karras": true
+        }
+      },
+      "tags": [
+        "photorealism"
+      ],
+      "created_at": "2023-09-03T01:14:03.089719+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "ccxl",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sdxl",
+      "name": "Crystal Clear XL",
+      "description": "Finetuned model brilliant for clarity and realism",
+      "image_url": "/models/ccxl.jpg",
+      "short_description": "Finetuned model brilliant for clarity and realism",
+      "download_url": "https://cdn.mage.space/models/base/ccxl.safetensors",
+      "external_url": "https://civitai.com/api/download/models/133832",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 1024
+        },
+        "easy_mode_settings": {
+          "scheduler": "eulera",
+          "guidance_scale": 7.5,
+          "negative_prompt": "canvas frame, high contrast, over saturated, glossy, cartoon, 3d, disfigured, bad art, b&w, blurry, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, extra limbs, bad anatomy, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, mutated hands, fused fingers, too many fingers, long neck, Photoshop, video game, ugly, tiling, poorly drawn hands, 3d render",
+          "scheduler_use_karras": false
+        }
+      },
+      "tags": [
+        "photorealism"
+      ],
+      "created_at": "2023-09-03T23:37:52.455251+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "duchaiten-dreamworld",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "DucHaitenDreamWorld",
+      "description": "Finetuned model excellent for modern 3D cinema styles",
+      "image_url": "https://www.mage.space/models/dreamworld.jpg",
+      "short_description": "Finetuned model excellent for modern 3D cinema styles",
+      "download_url": "https://huggingface.co/ghunkins/stable-diffusion-duchaiten-dreamworld",
+      "external_url": "https://huggingface.co/ghunkins/stable-diffusion-duchaiten-dreamworld",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "painting by bad-artist-anime, painting by bad-artist, lowres, disfigured, ostentatious, ugly, oversaturated, grain, low resolution, disfigured, blurry, bad anatomy, disfigured, poorly drawn face, mutant, mutated, extra limb, ugly, poorly drawn hands, missing limbs, blurred, floating limbs, disjointed limbs, deformed hands, blurred, out of focus, long neck, long body, ugly, disgusting, bad drawing, childish, cut off cropped, distorted, imperfect, bad hands, text, error, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry, artist name, Lots of hands, extra limbs, extra fingers, conjoined fingers, deformed fingers, old, ugly eyes, imperfect eyes, skewed eyes, unnatural face, stiff face, stiff body, unbalanced body, unnatural body, lacking body, details are not clear, details are sticky, details are low, distorted details, ugly hands, imperfect hands, (mutated hands and fingers:1.5), (long body :1.3), (mutation, poorly drawn :1.2) bad hands, fused hand, missing hand, disappearing arms, disappearing thigh, disappearing calf, disappearing legs, ui, missing fingers, nude, naked"
+        }
+      },
+      "tags": [
+        "3d-art"
+      ],
+      "created_at": "2023-06-10T22:31:31.093062+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "meinamix",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "MeinaMix",
+      "description": "Finetuned model designed for exceptional anime",
+      "image_url": "https://www.mage.space/models/meina.jpg",
+      "short_description": "Finetuned model designed for exceptional anime",
+      "download_url": "https://huggingface.co/ghunkins/stable-diffusion-meinamix",
+      "external_url": "https://huggingface.co/ghunkins/stable-diffusion-meinamix",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "(worst quality, low quality:1.4), monochrome, zombie"
+        }
+      },
+      "tags": [
+        "anime"
+      ],
+      "created_at": "2023-06-10T22:32:54.810996+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "urpm",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "URPM Legacy",
+      "description": "Finetuned model excellent for photorealism and NSFW",
+      "image_url": "https://www.mage.space/models/urpm.jpg",
+      "short_description": "Finetuned model excellent for photorealism and NSFW",
+      "download_url": "https://huggingface.co/ghunkins/stable-diffusion-urpm",
+      "external_url": "https://huggingface.co/ghunkins/stable-diffusion-urpm",
+      "is_nsfw": true,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "negative_prompt": "(((monochrome))), child, infant, low res, boring, mutated, artifacts, bad art, gross, ugly, poor quality, low quality, bad hands, lowers, (((3d render))), (((cartoon))), ((blurry)), missing body parts, (((missing shins))), extra nipples, bad anatomy, unnaturally twisted torso, unnaturally twisted pelvis, (((poorly drawn face))), (((poorly drawn eyes))), (((unnaturally bent legs))), (((unnaturally twisted legs))), deformed, distorted, fat, curved legs, fat hips, pov, closeup, (((third leg))):1.8, unnatural body proportions, elongated torso, second woman, Siamese twins"
+        }
+      },
+      "tags": [
+        "photorealism",
+        "nsfw"
+      ],
+      "created_at": "2023-06-10T22:33:40.275685+00:00",
+      "updated_at": null
+    }
+  ]
+}
