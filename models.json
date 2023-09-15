@@ -2,6 +2,69 @@
   "status": "success",
   "results": [
     {
+      "id": "duchaiten-mystery-xl",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sdxl",
+      "name": "DucHaitenMysteryXMage",
+      "description": "Finetuned model brilliant for digital images",
+      "image_url": "/models/duchaiten-mystery-x-mage-ii.jpg",
+      "short_description": "Finetuned model brilliant for digital images",
+      "download_url": "https://cdn2.mage.space/models/base/duchaiten-mystery-xl.safetensors",
+      "external_url": "https://huggingface.co/ghunkins/random/resolve/main/DucHaitenMystery-SDXL_v1.3.safetensors",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 1024
+        },
+        "easy_mode_settings": {
+          "scheduler": "eulera",
+          "guidance_scale": 9,
+          "negative_prompt": "(worst quality:1.5), (low quality:1.5), (normal quality:1.5), lowres, bad anatomy, bad hands, multiple eyebrow, (cropped), extra limb, missing limbs, deformed hands, long neck, long body, (bad hands), signature, username, artist name, conjoined fingers, deformed fingers, ugly eyes, imperfect eyes, skewed eyes, unnatural face, unnatural body, error, painting by bad-artist",
+          "scheduler_use_karras": false
+        }
+      },
+      "tags": [
+        "art",
+        "photorealism",
+        "exclusive"
+      ],
+      "created_at": "2023-09-10T16:39:07.731037+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "duchaiten-journey-x-mage",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sdxl",
+      "name": "DucHaitenJourneyXMage",
+      "description": "Finetuned model brilliant for high-quality photorealistic images",
+      "image_url": "/models/duchaiten-journey-x-mage.jpg",
+      "short_description": "Finetuned model brilliant for high-quality photorealistic images",
+      "download_url": "https://cdn2.mage.space/models/base/duchaiten-journey-x-mage.safetensors",
+      "external_url": "https://huggingface.co/ghunkins/random/resolve/main/DucHaitenJourney-XL-Mage_v1.2.2.5.safetensors",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 1024
+        },
+        "easy_mode_settings": {
+          "scheduler": "eulera",
+          "guidance_scale": 9,
+          "negative_prompt": "(worst quality:1.5), (low quality:1.5), (normal quality:1.5), lowres, bad anatomy, bad hands, multiple eyebrow, (cropped), extra limb, missing limbs, deformed hands, long neck, long body, (bad hands), signature, username, artist name, conjoined fingers, deformed fingers, ugly eyes, imperfect eyes, skewed eyes, unnatural face, unnatural body, error, painting by bad-artist",
+          "scheduler_use_karras": false
+        }
+      },
+      "tags": [
+        "photorealism",
+        "exclusive"
+      ],
+      "created_at": "2023-09-08T19:03:23.460849+00:00",
+      "updated_at": null
+    },
+    {
       "id": "anything-v5",
       "uid": null,
       "status": "active",
