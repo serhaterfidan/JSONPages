@@ -368,48 +368,6 @@
       "updated_at": null
     },
     {
-      "id": "duchaitenRealnsfwXL_v10",
-      "uid": null,
-      "status": "active",
-      "type": "base",
-      "architecture": "sdxl",
-      "name": "DucHaitenRealnsfwXL",
-      "description": "DucHaiten-RealNSFW-XL",
-      "image_url": "https://cdn.mage.space/models/preview/9662c5737853410b9de9f6456f226210.jpg",
-      "short_description": "Finetuned model exceptional at nsfw photorealism",
-      "alias": "duchaiten-real-nsfw-xl",
-      "hash": "F63228EDF2B53ADE7C4D323619DBD17EE7ED756B8632A1BF1D71C55013943E4F",
-      "download_url": "https://cdn2.mage.space/models/base/duchaitenRealnsfwXL_v10.safetensors",
-      "external_url": "https://civitai.com/api/download/models/167836",
-      "is_nsfw": false,
-      "metadata": {
-        "civitai": {
-          "rating": 5,
-          "creator": {
-            "image": "https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c83c9ad5-460f-434a-3ef1-e41af91d8400/width=96/DucHaiten.jpeg",
-            "username": "DucHaiten"
-          },
-          "model_id": 150171,
-          "model_version": 167836,
-          "trigger_words": [],
-          "favorite_count": 224
-        },
-        "base_settings": {
-          "base_size": 1024
-        },
-        "easy_mode_settings": {
-          "scheduler": "eulera",
-          "negative_prompt": "(worst quality:1.5), (low quality:1.5), (normal quality:1.5), lowres, bad anatomy, bad hands, multiple eyebrow, (cropped), extra limb, missing limbs, deformed hands, long neck, long body, (bad hands), signature, username, artist name, conjoined fingers, deformed fingers, ugly eyes, imperfect eyes, skewed eyes, unnatural face, unnatural body, error, painting by bad-artist",
-          "scheduler_use_karras": false
-        }
-      },
-      "tags": [
-        "nsfw"
-      ],
-      "created_at": "2023-10-14T22:25:49.636329+00:00",
-      "updated_at": null
-    },
-    {
       "id": "3EC4FB9FCD",
       "uid": null,
       "status": "active",
@@ -559,38 +517,6 @@
         "art"
       ],
       "created_at": "2023-10-14T22:24:59.182986+00:00",
-      "updated_at": null
-    },
-    {
-      "id": "A73E80A519",
-      "uid": null,
-      "status": "active",
-      "type": "base",
-      "architecture": "sd-v1-5",
-      "name": "FlatWhite",
-      "description": "Model (A73E80A519)",
-      "image_url": "https://cdn.mage.space/models/preview/03bd2abd70ee47d0a0dafa6f8646ea43.jpg",
-      "short_description": "Finetuned model excellent for 2D anime",
-      "alias": "flatwhite",
-      "hash": "A73E80A51999F4EBD3D28A36C204884927849D51B18CFA1101F9506CA13EE85C",
-      "download_url": "https://cdn2.mage.space/models/base/A73E80A519.safetensors",
-      "external_url": "https://drive.google.com/file/d/1Y6tE7iYTYDcWs6is4SAEywSsskjR3smK/view?usp=drive_link",
-      "is_nsfw": false,
-      "metadata": {
-        "base_settings": {
-          "base_size": 512
-        },
-        "easy_mode_settings": {
-          "scheduler": "eulera",
-          "negative_prompt": "(bad quality:1.2), (worst quality: 1.2), <ti:easynegative>, Disfigured, Bad Artwork, Bad Render, Over Saturated, jpeg artifacts, Text, Error, Bad Anatomy, Artist Name, Deformed Body, Bad Posture, Ugly, Blurry, Long Neck, Cropped, Children, child, loli, underage, (bad quality, low quality, worst quality:1.5)",
-          "scheduler_use_karras": false
-        }
-      },
-      "tags": [
-        "exclusive",
-        "anime"
-      ],
-      "created_at": "2023-10-14T20:08:43.920864+00:00",
       "updated_at": null
     },
     {
@@ -1503,35 +1429,6 @@
       "updated_at": null
     },
     {
-      "id": "waifu",
-      "uid": null,
-      "status": "active",
-      "type": "base",
-      "architecture": "sd-v1-5",
-      "name": "Waifu",
-      "description": "Finetuned model excellent for anime",
-      "image_url": "https://www.mage.space/models/waifu.jpg",
-      "short_description": "Finetuned model excellent for anime",
-      "alias": null,
-      "hash": "1C46A7B773ED8DAAF87A92ABE8EBE9912FF65B796FCDF9BEFE3DFE1FD7A061DD",
-      "download_url": "https://cdn2.mage.space/models/base/waifu.safetensors",
-      "external_url": "https://cdn2.mage.space/models/base/waifu.safetensors",
-      "is_nsfw": true,
-      "metadata": {
-        "base_settings": {
-          "base_size": 512
-        },
-        "easy_mode_settings": {
-          "negative_prompt": "lowres, (bad anatomy, bad hands:1.1), text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, blurry, b&w, weird colors, (cartoon, 3d, bad art, poorly drawn, close up, blurry:1.5), (disfigured, deformed, extra limbs:1.5)"
-        }
-      },
-      "tags": [
-        "anime"
-      ],
-      "created_at": "2023-06-10T21:55:54.656409+00:00",
-      "updated_at": null
-    },
-    {
       "id": "copax-timeless-xl",
       "uid": null,
       "status": "active",
@@ -1562,6 +1459,37 @@
         "art"
       ],
       "created_at": "2023-09-03T01:20:02.592358+00:00",
+      "updated_at": null
+    },
+    {
+      "id": "3364B986B3",
+      "uid": null,
+      "status": "active",
+      "type": "base",
+      "architecture": "sd-v1-5",
+      "name": "AnDerrated",
+      "description": "Model (3364B986B3)",
+      "image_url": "https://cdn2.mage.space/models/preview/20716836d7b149bab0e23d867f89e0c5.jpg",
+      "short_description": "Finetuned model amazing at anime",
+      "alias": "anderrated",
+      "hash": "3364B986B320816513F6E99FC5E67EC65707757428D300141353ED480C26DB22",
+      "download_url": "https://cdn2.mage.space/models/base/3364B986B3.safetensors",
+      "external_url": "https://drive.google.com/file/d/10pg9REyteN3FRdoa-VKOthvkNWSQBlO1/view?usp=drive_link",
+      "is_nsfw": false,
+      "metadata": {
+        "base_settings": {
+          "base_size": 512
+        },
+        "easy_mode_settings": {
+          "scheduler": "dpmm",
+          "negative_prompt": "(bad quality:1.2), (worst quality: 1.2), <ti:easynegative>",
+          "scheduler_use_karras": true
+        }
+      },
+      "tags": [
+        "anime"
+      ],
+      "created_at": "2023-11-03T15:25:31.999012+00:00",
       "updated_at": null
     },
     {
@@ -1732,38 +1660,6 @@
         "art"
       ],
       "created_at": "2023-09-03T00:56:07.689801+00:00",
-      "updated_at": null
-    },
-    {
-      "id": "BFAC2F97A6",
-      "uid": null,
-      "status": "active",
-      "type": "base",
-      "architecture": "sd-v1-5",
-      "name": "Jade Defiant V3",
-      "description": "Model (BFAC2F97A6)",
-      "image_url": "https://cdn.mage.space/models/preview/f7b51be42fcf486381d1f9418d11c56d.jpg",
-      "short_description": "Finetuned model excellent at photorealism",
-      "alias": "jade-defiant-v3",
-      "hash": "BFAC2F97A6A0858399907BFAC23F27961361AAA59CFD65FD3F6A63A10152ED62",
-      "download_url": "https://cdn2.mage.space/models/base/BFAC2F97A6.safetensors",
-      "external_url": "https://huggingface.co/SilasModder/JadeDefiantV3/resolve/main/JadeDefiantV3-0553-0869-4241.safetensors",
-      "is_nsfw": false,
-      "metadata": {
-        "base_settings": {
-          "base_size": 512
-        },
-        "easy_mode_settings": {
-          "scheduler": "eulera",
-          "negative_prompt": "<ti:BadDream> <ti:EasyNegative> (worst quality:1.2), (low quality:1.2), sketch, watermark, text copyright signature, cut out, cgi, hands, Two bodies, Two heads, doll, extra nipples, bad anatomy, blurry, fuzzy, extra arms, extra fingers, poorly drawn hands, disfigured, tiling, deformed, mutated, out of frame, cloned face",
-          "scheduler_use_karras": false
-        }
-      },
-      "tags": [
-        "photorealism",
-        "exclusive"
-      ],
-      "created_at": "2023-10-24T23:04:38.854401+00:00",
       "updated_at": null
     },
     {
