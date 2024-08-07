@@ -1,0 +1,207 @@
+[
+    {
+        "name": "General Fast V2 (Flux)",
+        "model_id": "flux-schnell",
+        "image_url": "https://cdn3.mage.space/concepts/preview/63b7af399a78b6d8a5ace0b81d5ee3c4/3b1c681bb121bc40234da18212c863cd.jpg"
+    },
+    {
+        "name": "General Fast V2 HD (Flux)",
+        "model_id": "flux-schnell",
+        "image_url": "https://cdn3.mage.space/concepts/preview/83503526a5fda4567ef38abd2e49dc00/3c3cf5cf27201093c72c4c968ea14629.jpg"
+    },
+    {
+        "name": "General Fast",
+        "model_id": "F64061C9B58C3CE8D4DD019E1DB171EB3FC0DFB4B92DE5C47488E29D488AA8D0",
+        "image_url": "https://cdn3.mage.space/apps/dbc93cb2cd9d969d7d35dcf2ebeece46/image/$e2f5160ecd12d22bff2a1b532f9b3320.jpg"
+    },
+    {
+        "name": "Fast Analog",
+        "model_id": "3C5D7960A76DBC715AD1C4F2C4F948CD1F12CCD09D44CEF243A7DD2CF82371BF",
+        "image_url": "https://cdn3.mage.space/apps/80d8bfd503a623aa03606e240d6f09dd/image/$efc175bd31bcb6949fb0286d7a5ee050.jpg"
+    },
+    {
+        "name": "Beautiful Asian Girl",
+        "model_id": "1A17BCD93DC12034B4B8E6B2787F34A7CA250FB3344CB036768D3525745ADB8C",
+        "image_url": "https://cdn3.mage.space/apps/268f2ab377d8432708a3beb58accd7c5/image/b6b05bf1adb1c8368d7a0aa2b365cec3.jpg"
+    },
+    {
+        "name": "Fast Vintage",
+        "model_id": "F64061C9B58C3CE8D4DD019E1DB171EB3FC0DFB4B92DE5C47488E29D488AA8D0",
+        "image_url": "https://cdn3.mage.space/apps/2d351ce747e6e6e876520d0934f665e3/image/823eef9f40ce128ad369383e5e76c76a.jpg"
+    },
+    {
+        "name": "Portrait",
+        "model_id": "912C9DC74F5855175C31A7993F863A043AC8DCC31732B324CD05D75CD7E16844",
+        "image_url": "https://cdn3.mage.space/apps/c2872039239e94643046149db381a1dc/image/$ed9d9833319d5d2ac4cf2a9aa6f62ae1.jpg"
+    },
+    {
+        "name": "Golden Hour",
+        "model_id": "3C5D7960A76DBC715AD1C4F2C4F948CD1F12CCD09D44CEF243A7DD2CF82371BF",
+        "image_url": "https://cdn3.mage.space/apps/5f47c08ac84ec92dea190cf298b93b89/image/$9f8dc6a848ea8fa6977d6e5e2b4e533f.jpg"
+    },
+    {
+        "name": "Darkness",
+        "model_id": "9DB96E297E52A5A617FCCE8155D6BDF52BBE1AB0C3DCA3DBEB66143ACA903A5A",
+        "image_url": "https://cdn3.mage.space/apps/da638d4e9055e4b98dc5f8beda3beca1/image/$7abf5a86db894e83e0fa749b00c84696.jpg"
+    },
+    {
+        "name": "Photography",
+        "model_id": "912C9DC74F5855175C31A7993F863A043AC8DCC31732B324CD05D75CD7E16844",
+        "image_url": "https://cdn3.mage.space/apps/08dc087a1db6ecc42319b97fb3466508/image/$dfa12a17c007253cf5e6ba4e18ce856d.jpg"
+    },
+    {
+        "name": "Analog",
+        "model_id": "3C5D7960A76DBC715AD1C4F2C4F948CD1F12CCD09D44CEF243A7DD2CF82371BF",
+        "image_url": "https://cdn3.mage.space/apps/cff5cb628533ed7b280b5914969c69a5/image/$f73b6027c8eab77438ab7218277d67be.jpg"
+    },
+    {
+        "name": "Cinematic Darkness",
+        "model_id": "9DB96E297E52A5A617FCCE8155D6BDF52BBE1AB0C3DCA3DBEB66143ACA903A5A",
+        "image_url": "https://cdn3.mage.space/apps/7e8689f7cdd828a29e42b7f98ddb2d7b/image/$b53fd827b03f9eabf72e60b0fec9ce9e.jpg"
+    },
+    {
+        "name": "Cool Cinematic",
+        "model_id": "AEB7E9E6897A1E58B10494BD989D001E3D4BC9B634633CD7B559838F612C2867",
+        "image_url": "https://cdn3.mage.space/apps/880cb4ddabfe8977a1eafdd9d0c4b7d0/image/86ce7ddef12e88aa1a8155e2d2589039.jpg"
+    },
+    {
+        "name": "Cinematic Dynamic",
+        "model_id": "5D99332B3D7D390838E2DCE480DFADC5A53DE688A7CEA5CCEC032EB50F68891E",
+        "image_url": "https://cdn3.mage.space/apps/d3526535f2e20c096cc3b717f266e0e4/image/69cc61c0bd8f80b14c3200da46e97896.jpg"
+    },
+    {
+        "name": "Lowkey Portrait",
+        "model_id": "912C9DC74F5855175C31A7993F863A043AC8DCC31732B324CD05D75CD7E16844",
+        "image_url": "https://cdn3.mage.space/apps/352345d17d470ff041bc6fa82d1fe4cd/image/41c5e90651645af8afa01d934b4ef4be.jpg"
+    },
+    {
+        "name": "Vaporwave",
+        "model_id": "912C9DC74F5855175C31A7993F863A043AC8DCC31732B324CD05D75CD7E16844",
+        "image_url": "https://cdn3.mage.space/concepts/preview/23bbaa412c0309126bb55dc247e907aa/593bc1ab140877a46baca225512118a3.jpg"
+    },
+    {
+        "name": "Gel Lighting Photography",
+        "model_id": "58ED423904C411AB00078FBE7E47003F61D16EB20820D7699D8EF02C535C57F8",
+        "image_url": "https://cdn3.mage.space/apps/1858b6a16593944e2f12d015203292b1/image/4faef2d63aae9ff328be430a514743db.jpg"
+    },
+    {
+        "name": "Semi-Realistic Portrait",
+        "model_id": "1FCEB79D0E7F43D86C0A9E3335F13EE3227DAF6183DD938B3CC3BF864A439C26",
+        "image_url": "https://cdn3.mage.space/concepts/preview/dcd5fc8698b1995116998a5fcae61ca9/2de6f3fcec88b1a3d3882ef4c01446cf.jpg"
+    },
+    {
+        "name": "Fashion Portrait",
+        "model_id": "E6BB9EA85BBF7BF6478A7C6D18B71246F22E95D41BCDD80ED40AA212C33CFEFF",
+        "image_url": "https://cdn3.mage.space/concepts/preview/75451b3dd3bd8be3f1ab992cf1b1a524/84630135edca1560bc6a42419561f272.jpg"
+    },
+    {
+        "name": "Backlit Portrait Photography",
+        "model_id": "C52892E92A397C09938C55ED30B1702BD9346542DBF50467A7085FF8E27F4ED1",
+        "image_url": "https://cdn3.mage.space/apps/2225d3d30c4e48b69ac0a49ef01445c4/image/8b9a507ddc8a120ced0f6868a19bc871.jpg"
+    },
+    {
+        "name": "Vibrant Rim Light",
+        "model_id": "0B76532E03A1BAC388CBF559AF00384ABCBD2B5B3F8834158AE4B1B9146A3843",
+        "image_url": "https://cdn3.mage.space/apps/294d05f29e63251767274311e555a722/image/$e00b6902e6d43307d0d65e22351cd181.jpg"
+    },
+    {
+        "name": "Summer Portrait",
+        "model_id": "912C9DC74F5855175C31A7993F863A043AC8DCC31732B324CD05D75CD7E16844",
+        "image_url": "https://cdn3.mage.space/apps/16bb79d58fba7abb80a4416d8870d7cc/image/400847dda09b73fb88cdded5bfec7001.jpg"
+    },
+    {
+        "name": "Overhead Shot",
+        "model_id": "912C9DC74F5855175C31A7993F863A043AC8DCC31732B324CD05D75CD7E16844",
+        "image_url": "https://cdn3.mage.space/apps/1cf5e0804d3a6cc02d5c8b2d552ec6cc/image/b47b0590b4027f782e4965166935d5ef.jpg"
+    },
+    {
+        "name": "Blueprint Schematic Drawing",
+        "model_id": "58DFE4F1F5D360209D8D056D93234DA78A20E08CDC0134A124DBAD6AAA59797B",
+        "image_url": "https://cdn3.mage.space/concepts/preview/54a11cf30c4b6d6f93452a8aa8b38bdb/23fb4072b5d1715fb858aa652a6c3b1f.jpg"
+    },
+    {
+        "name": "Blue Hour",
+        "model_id": "75D35263BB32C4FD013EB571798F48D399833D0E1988377F11238C1E2FD41F74",
+        "image_url": "https://cdn3.mage.space/concepts/preview/6f3710c01592fdcd15cf59d8eb9aed31/2e5c3fc439872f61e8ca9f43db606d16.jpg"
+    },
+    {
+        "name": "Thermographic Portrait",
+        "model_id": "DC1EEA31F8DC1124FBE9990820E21FCAA36D6DFE03005C1164E73742B8021B83",
+        "image_url": "https://cdn3.mage.space/apps/f5d3b4f08b9f06231447133b803cae05/image/691372dc408a96419a39b74bd74bf32c.jpg"
+    },
+    {
+        "name": "Purple Hour",
+        "model_id": "58ED423904C411AB00078FBE7E47003F61D16EB20820D7699D8EF02C535C57F8",
+        "image_url": "https://cdn3.mage.space/apps/0dc0807812b26d2fe21fdd1921e5595d/image/49e6b252b2c80f1705f338a6250e25af.jpg"
+    },
+    {
+        "name": "Red & Orange Portrait",
+        "model_id": "03BDC902B3065B41A9DEB03DAEAA021B5523A9B0DA39B4974679E6F12B18059A",
+        "image_url": "https://cdn3.mage.space/apps/9ece4aa7e8709f4529804f085b58a371/image/9da2bb1ee73ea08473cc5bf65667cf75.jpg"
+    },
+    {
+        "name": "Retro Analog Film",
+        "model_id": "C97444EDB0900B492FD35D0ADA51BD451922F47B1E52D39BC14D6A01F9955557",
+        "image_url": "https://cdn3.mage.space/apps/9be1fe787ea76b18033f856ff4fde11d/image/2dc021e6699e55a4d99b68738327dbec.jpg"
+    },
+    {
+        "name": "Horror",
+        "model_id": "3C5D7960A76DBC715AD1C4F2C4F948CD1F12CCD09D44CEF243A7DD2CF82371BF",
+        "image_url": "https://cdn3.mage.space/apps/c08a069e1cfd8643e5277259bb27ac4e/image/$d706e196ced378a1d54f042e2e5110dc.jpg"
+    },
+    {
+        "name": "Dark Mood",
+        "model_id": "5D99332B3D7D390838E2DCE480DFADC5A53DE688A7CEA5CCEC032EB50F68891E",
+        "image_url": "https://cdn3.mage.space/concepts/preview/b68de6baf6cbea3b2908bf17e0d4f33c/323bc03c76281f46fb81ac8217c0ef18.jpg"
+    },
+    {
+        "name": "CGI",
+        "model_id": "75D35263BB32C4FD013EB571798F48D399833D0E1988377F11238C1E2FD41F74",
+        "image_url": "https://cdn3.mage.space/apps/37a2cb3968544c15cb1109b0d6608e33/image/a349a0fcb2a1134463c12a45154b7c5a.jpg"
+    },
+    {
+        "name": "Ice Blue",
+        "model_id": "C1ADAF9D0CAD7642D5BB473505AFC7D88D9828C3F302D49DC889FE5993BD2C8D",
+        "image_url": "https://cdn3.mage.space/concepts/preview/95b5004d302c480a21c8fe24f586bd21/5c57ed61514a2b8dc7690c63dd6c7dd9.jpg"
+    },
+    {
+        "name": "Faded Polaroid",
+        "model_id": "0B76532E03A1BAC388CBF559AF00384ABCBD2B5B3F8834158AE4B1B9146A3843",
+        "image_url": "https://cdn3.mage.space/apps/9588646945b35fcbea2d1bd95d30dcc8/image/501d0b61b2fb6619d476cb95964d6786.jpg"
+    },
+    {
+        "name": "Product Photography",
+        "model_id": "F53945EC37073832A4DE3BF24DD4590AE2690352B61A4FAA75F1AE3A70574E24",
+        "image_url": "https://cdn3.mage.space/concepts/preview/8201289621b3e1ea6198cfc287fe3a45/19000cb91350fbd279dd14deab7a653b.jpg"
+    },
+    {
+        "name": "Pink World",
+        "model_id": "DC1EEA31F8DC1124FBE9990820E21FCAA36D6DFE03005C1164E73742B8021B83",
+        "image_url": "https://cdn3.mage.space/apps/27c9112997c3ad17cdd62df9ca8d24d3/image/$d35ca37e80d19e465a668d9319332d4a.jpg"
+    },
+    {
+        "name": "Pastel World",
+        "model_id": "75D35263BB32C4FD013EB571798F48D399833D0E1988377F11238C1E2FD41F74",
+        "image_url": "https://cdn3.mage.space/concepts/preview/23756cad95b8558b71ebd76bb772f3dd/1d6f85cb693633f4a34568b779c45032.jpg"
+    },
+    {
+        "name": "Sunset Silhouette",
+        "model_id": "12EE4EBC947D15334526841C48EFF5BDBB5C8C1147DCCDE7236949CDCA26EDD1",
+        "image_url": "https://cdn3.mage.space/apps/0b7c9b1dd4024e7ef9a12762f0a403b0/image/$d25a8ff95cbdde249eb38ceedc7d94e1.jpg"
+    },
+    {
+        "name": "Barbie Portrait",
+        "model_id": "F64061C9B58C3CE8D4DD019E1DB171EB3FC0DFB4B92DE5C47488E29D488AA8D0",
+        "image_url": "https://cdn3.mage.space/apps/6ec04c56148bb87274eedd7a3d452be7/image/786cc0c5242a1e09ae0c3e98bd60b5ac.jpg"
+    },
+    {
+        "name": "Futuristic",
+        "model_id": "0B76532E03A1BAC388CBF559AF00384ABCBD2B5B3F8834158AE4B1B9146A3843",
+        "image_url": "https://cdn3.mage.space/apps/5e22c34959e68eda206056a544444f0a/image/a6b6a51335e2abcb78d6ecada8dd8da7.jpg"
+    },
+    {
+        "name": "Dreamy Night Portrait",
+        "model_id": "F53945EC37073832A4DE3BF24DD4590AE2690352B61A4FAA75F1AE3A70574E24",
+        "image_url": "https://cdn3.mage.space/apps/970c8d70fd48c82c133de423ea66fea1/image/$ad26db7802d53023ae1c286cec680f97.jpg"
+    }
+]
